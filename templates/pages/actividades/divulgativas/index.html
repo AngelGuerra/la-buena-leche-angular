@@ -1,0 +1,64 @@
+<section id="actividades-divulgativas" class="clearfix">
+	<h1 class="text-center">Actividades divulgativas</h1>
+
+	<section id="talleres">
+		<h2>Talleres</h2>
+		<p>
+			Ofrecidos como actividades puntuales:
+			<ul>
+				<li>Porteo</li>
+				<li>Masaje infantil</li>
+				<li>Estiramientos para las mamás con su bebé encima</li>
+				<li>Herramientas para manejar el stress durante la lactancia</li>
+				<li>Trabajo de suelo pélvico</li>
+			</ul>
+		</p>
+	</section>
+
+	<div class="row">
+		<div class="col-sm-6">
+			<section id="conferencias">
+				<h2>Conferencias</h2>
+				<p>
+					Ofrecemos a grupos y centros interesados diferentes charlas:
+					<ul>
+						<li>Lactancia materna: práctica, dudas, principales dificultades y papel de los grupos de apoyo</li>
+						<li>Lactancia: como empezar</li>
+						<li>El rol del padre en la lactancia materna</li>
+						<li>Alimentación complementaria y destete</li>
+						<li>Cómo funcionan los grupos de apoyo (charla-taller)</li>
+					</ul>
+				</p>
+			</section>
+		</div>
+		<div class="col-sm-6">
+			<section id="exposiciones">
+				<h2>Exposiciones</h2>
+				<p>
+					<ul>
+						<li>Material de lactancia</li>
+						<li>Pinturas de Paz Treuquil (pintura indígena sobre la mujer)</li>
+						<li>Fotografías</li>
+						<li>Posters temáticos</li>
+					</ul>
+				</p>
+			</section>
+		</div>
+	</div>
+
+	<section id="semana-mundial">
+		<h2>Semana Mundial de Lactancia Materna</h2>
+		<p>
+			La semana mundial de la lactancia materna se crea en 1992 por la WABA y UNICEF con el objetivo de difundir y promover los beneficios de la
+			lactancia materna, ya que la tasa había disminuido drásticamente en las décadas anteriores.
+		</p>
+		<p>
+			Se celebra durante la primera semana de agosto a nivel mundial. En Europa debido a la dispersión vacacional se traslada a la primera semana de octubre.
+		</p>
+		<p>Cada año la preside un lema diferente:</p>
+		<ul>
+			<li ng-repeat="lema in divulgativasCtrl.lemas">SMLM {{lema.motto.year}}: {{lema.motto.title}}</li>
+		</ul>
+		<p class="help">Fuente: <a href="https://es.wikipedia.org/wiki/Semana_Mundial_de_la_Lactancia_Materna" target="_blank">https://es.wikipedia.org/wiki/Semana_Mundial_de_la_Lactancia_Materna</a></p>
+	</section>
+</section>

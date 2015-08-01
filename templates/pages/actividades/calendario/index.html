@@ -1,0 +1,41 @@
+<section id="calendario" class="clearfix">
+    <h1 class="text-center">{{ calendarioCtrl.calendarTitle }}</h1>
+    <section>
+        <div class="clearfix calendar-controls">
+            <div class="btn-group calendar-day-controls">
+                <button
+                        class="btn btn-lbl"
+                        mwl-date-modifier date="calendarioCtrl.calendarDay"
+                        decrement="calendarioCtrl.calendarView">Anterior
+                </button>
+                <button
+                        class="btn btn-default"
+                        mwl-date-modifier date="calendarioCtrl.calendarDay"
+                        set-to-today>Hoy
+                </button>
+                <button
+                        class="btn btn-lbl"
+                        mwl-date-modifier
+                        date="calendarioCtrl.calendarDay"
+                        increment="calendarioCtrl.calendarView">Siguiente
+                </button>
+            </div>
+
+            <div class="btn-group calendar-view-controls">
+                <button class="btn btn-lbl" ng-model="calendarioCtrl.calendarView" btn-radio="'year'">Año</button>
+                <button class="btn btn-lbl active" ng-model="calendarioCtrl.calendarView" btn-radio="'month'">Mes
+                </button>
+            </div>
+        </div>
+
+        <mwl-calendar
+                events="calendarioCtrl.events"
+                view="calendarioCtrl.calendarView"
+                view-title="calendarioCtrl.calendarTitle"
+                current-day="calendarioCtrl.calendarDay"
+                day-view-start="08:00"
+                day-view-end="23:00"
+                on-drill-down-click="calendarioCtrl.viewTime();">
+        </mwl-calendar>
+    </section>
+</section>

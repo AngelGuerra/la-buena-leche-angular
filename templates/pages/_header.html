@@ -1,0 +1,70 @@
+<header ng-controller="HeaderController as headerCtrl">
+  <div class="container">
+    <a class="hidden-xs" ui-sref="home">
+      <img src="images/logo.png" alt="Logo de la Asociación La Buena Leche">
+    </a>
+  </div>
+
+  <nav class="navbar" role="navigation">
+    <div class="container">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#menu">
+          <span class="sr-only">Toggle navigation</span>
+          <i class="fa fa-bars fa-lg"></i>
+        </button>
+        <a class="navbar-brand visible-xs" ui-sref="home">La Buena Leche</a>
+
+        <div class="social visible-xs pull-right">
+          <a href="http://compartiendocrianza.blogspot.com.es/" target="_blank" data-toggle="tooltip" data-placement="bottom" title="Nuestro Blog">
+            <i class="fa fa-bullhorn fa-2x"></i>
+          </a>
+
+          <a href="https://es-es.facebook.com/AsociacionLaBuenaLeche" target="_blank" data-toggle="tooltip" data-placement="bottom" title="Nuestro Facebook">
+            <i class="fa fa-facebook-official fa-2x"></i>
+          </a>
+        </div>
+
+      </div>
+
+      <div class="collapse navbar-collapse" id="menu">
+        <ul class="nav navbar-nav">
+          <li><a ui-sref="home" ng-class="{ active: isActive('/home') }"><i class="fa fa-home"></i></a></li>
+          <li><a ui-sref="quienes-somos" ng-class="{ active: isActive('/quienes-somos') }">Quiénes somos</a></li>
+          <li>
+            <a class="dropdown-toggle" data-toggle="dropdown" ng-class="{ active: isActive('/actividades') }">Actividades <span class="caret"></span></a>
+            <ul class="dropdown-menu" role="menu">
+              <li><a ui-sref="actividades.encuentros">Encuentros</a></li>
+              <li><a ui-sref="actividades.divulgativas">Actividades divulgativas</a></li>
+              <li><a ui-sref="actividades.ludicas">Actividades lúdicas</a></li>
+              <li><a ui-sref="actividades.calendario">Calendario de actividades</a></li>
+            </ul>
+          </li>
+          <li>
+            <a class="dropdown-toggle" data-toggle="dropdown" ng-class="{ active: isActive('/material') }">Material <span class="caret"></span></a>
+            <ul class="dropdown-menu" role="menu">
+              <li><a ui-sref="material.extractores-de-leche">Extractores de leche</a></li>
+              <li><a ui-sref="material.prestamo-de-libros">Préstamo de libros</a></li>
+              <li><a ui-sref="material.material-de-muestra">Material de muestra</a></li>
+            </ul>
+          </li>
+          <li>
+            <a class="dropdown-toggle" data-toggle="dropdown" ng-class="{ active: isActive('/informacion') }">Información <span class="caret"></span></a>
+            <ul class="dropdown-menu" role="menu">
+              <li><a ui-sref="informacion.como-empezar">Cómo empezar</a></li>
+              <li><a ui-sref="informacion.beneficios">Beneficios</a></li>
+              <li><a ui-sref="informacion.problemas-y-soluciones">Problemas y soluciones</a></li>
+              <li><a ui-sref="informacion.extraccion-de-leche">Extracción de leche</a></li>
+              <li><a ui-sref="informacion.destete">Destete</a></li>
+              <li><a ui-sref="informacion.lactancia-y-trabajo">Lactancia y trabajo</a></li>
+              <li><a ui-sref="informacion.grupos-de-apoyo">Grupos de apoyo</a></li>
+              <li><a ui-sref="informacion.otros-enlaces">Otros enlaces</a></li>
+            </ul>
+           </li>
+           <li><a href="http://compartiendocrianza.blogspot.com.es/" target="_blank">Blog</a></li>
+           <li><a ui-sref="asociate" ng-class="{ active: isActive('/asociate') }">Asóciate</a></li>
+           <li><a ui-sref="contacto" ng-class="{ active: isActive('/contacta') }">Contacta</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+</header>

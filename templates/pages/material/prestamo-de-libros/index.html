@@ -1,0 +1,35 @@
+<section id="prestamo-de-libros" class="clearfix">
+	<h1 class="text-center">Préstamo de libros</h1>
+	<p>
+		Bibliografía y material audiovisual que la Asociación pone a tu disposición:
+	</p>
+
+	<div class="row">
+		<div class="filtros">
+			<div class="col-xs-6 col-md-3">
+				<input type="text" class="form-control" placeholder="Filtrar por título" ng-model="search.book.title"/>
+			</div>
+			<div class="col-xs-6 col-md-3">
+				<input type="text" class="form-control" placeholder="Filtrar por autor" ng-model="search.book.author"/>
+			</div>
+		</div>
+	</div>
+
+	<div class="row">
+		<div class="col-xs-12 col-md-8 col-lg-6">
+			<p><strong>Libros</strong>:
+				<ul class="fa-ul">
+					<li ng-repeat="libro in prestamoCtrl.libros | filter:search:strict">
+						<i class="fa-li fa fa-book"></i>{{libro.book.title}}
+						<span ng-if="libro.book.author">({{libro.book.author}})</span>
+					</li>
+				</ul>
+			</p>
+		</div>
+		<div class="col-md-4 col-lg-6 visible-md visible-lg">
+			<img src="images/actividades/prestamo-libros/fotolia_40354213.jpg" alt="" class="img img-responsive center-block"/>
+			<img src="images/actividades/prestamo-libros/fotolia_71440236.jpg" alt="" class="img img-responsive center-block"/>
+			<img src="images/actividades/prestamo-libros/fotolia_66450046.jpg" alt="" class="img img-responsive center-block"/>
+		</div>
+	</div>
+</section>
