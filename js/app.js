@@ -2,5 +2,5 @@
     'use strict';
 
     angular
-        .module('laBuenaLeche', ['ngAnimate', 'ngRoute', 'ngTouch', 'mwl.calendar', 'ui.bootstrap', 'ui.router']);
+        .module('laBuenaLeche', ['ncy-angular-breadcrumb', 'ngAnimate', 'ngRoute', 'ngTouch', 'mwl.calendar', 'ui.bootstrap', 'ui.router']);
 })();
