@@ -1,7 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3a6be78-190b-4765-854f-c9dd623770b9" name="Default" comment="" />
+    <list default="true" id="a3a6be78-190b-4765-854f-c9dd623770b9" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/4.4.0/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/4.4.0/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/4.4.0/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/4.4.0/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/bootstrap/3.3.5/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/bootstrap/3.3.5/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/bootstrap/3.3.5/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/bootstrap/3.3.5/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/bootstrap/3.3.5/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/bootstrap/3.3.5/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/bootstrap/3.3.5/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/bootstrap/3.3.5/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/bootstrap/3.3.5/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/bootstrap/3.3.5/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font-awesome/4.4.0/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/bootstrap/3.3.5/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/bootstrap/3.3.5/js/npm.js" />
+      <change type="DELETED" beforePath="C:\wamp\www\la-buena-leche\lib\bootstrap\3.2.0\css\bootstrap-theme.css.map" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\la-buena-leche\lib\bootstrap\3.2.0\css\bootstrap-theme.min.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\la-buena-leche\lib\bootstrap\3.2.0\css\bootstrap.css.map" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\la-buena-leche\lib\bootstrap\3.2.0\css\bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\la-buena-leche\lib\bootstrap\3.2.0\fonts\glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\la-buena-leche\lib\bootstrap\3.2.0\fonts\glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\la-buena-leche\lib\bootstrap\3.2.0\fonts\glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\la-buena-leche\lib\bootstrap\3.2.0\fonts\glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\la-buena-leche\lib\bootstrap\3.2.0\js\bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\la-buena-leche\lib\bootstrap\3.2.0\js\bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\la-buena-leche\lib\font-awesome\4.3.0\css\font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\la-buena-leche\lib\font-awesome\4.3.0\fonts\FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\la-buena-leche\lib\font-awesome\4.3.0\fonts\fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\la-buena-leche\lib\font-awesome\4.3.0\fonts\fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\la-buena-leche\lib\font-awesome\4.3.0\fonts\fontawesome-webfont.woff2" afterPath="" />
+      <change type="MOVED" beforePath="C:\wamp\www\la-buena-leche\lib\bootstrap\3.2.0\css\bootstrap-theme.css" afterPath="$PROJECT_DIR$/lib/bootstrap/3.3.5/css/bootstrap-theme.css" />
+      <change type="MOVED" beforePath="C:\wamp\www\la-buena-leche\lib\bootstrap\3.2.0\css\bootstrap.css" afterPath="$PROJECT_DIR$/lib/bootstrap/3.3.5/css/bootstrap.css" />
+      <change type="MOVED" beforePath="C:\wamp\www\la-buena-leche\lib\font-awesome\4.3.0\css\font-awesome.css" afterPath="$PROJECT_DIR$/lib/font-awesome/4.4.0/css/font-awesome.css" />
+      <change type="MOVED" beforePath="C:\wamp\www\la-buena-leche\lib\font-awesome\4.3.0\fonts\fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/lib/font-awesome/4.4.0/fonts/fontawesome-webfont.svg" />
+      <change type="MOVED" beforePath="C:\wamp\www\la-buena-leche\lib\font-awesome\4.3.0\fonts\fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/lib/font-awesome/4.4.0/fonts/fontawesome-webfont.ttf" />
+      <change type="MOVED" beforePath="C:\wamp\www\la-buena-leche\lib\font-awesome\4.3.0\less\animated.less" afterPath="$PROJECT_DIR$/lib/font-awesome/4.4.0/less/animated.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\la-buena-leche\lib\font-awesome\4.3.0\less\bordered-pulled.less" afterPath="$PROJECT_DIR$/lib/font-awesome/4.4.0/less/bordered-pulled.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\la-buena-leche\lib\font-awesome\4.3.0\less\core.less" afterPath="$PROJECT_DIR$/lib/font-awesome/4.4.0/less/core.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\la-buena-leche\lib\font-awesome\4.3.0\less\fixed-width.less" afterPath="$PROJECT_DIR$/lib/font-awesome/4.4.0/less/fixed-width.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\la-buena-leche\lib\font-awesome\4.3.0\less\font-awesome.less" afterPath="$PROJECT_DIR$/lib/font-awesome/4.4.0/less/font-awesome.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\la-buena-leche\lib\font-awesome\4.3.0\less\icons.less" afterPath="$PROJECT_DIR$/lib/font-awesome/4.4.0/less/icons.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\la-buena-leche\lib\font-awesome\4.3.0\less\larger.less" afterPath="$PROJECT_DIR$/lib/font-awesome/4.4.0/less/larger.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\la-buena-leche\lib\font-awesome\4.3.0\less\list.less" afterPath="$PROJECT_DIR$/lib/font-awesome/4.4.0/less/list.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\la-buena-leche\lib\font-awesome\4.3.0\less\mixins.less" afterPath="$PROJECT_DIR$/lib/font-awesome/4.4.0/less/mixins.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\la-buena-leche\lib\font-awesome\4.3.0\less\path.less" afterPath="$PROJECT_DIR$/lib/font-awesome/4.4.0/less/path.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\la-buena-leche\lib\font-awesome\4.3.0\less\rotated-flipped.less" afterPath="$PROJECT_DIR$/lib/font-awesome/4.4.0/less/rotated-flipped.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\la-buena-leche\lib\font-awesome\4.3.0\less\stacked.less" afterPath="$PROJECT_DIR$/lib/font-awesome/4.4.0/less/stacked.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\la-buena-leche\lib\font-awesome\4.3.0\less\variables.less" afterPath="$PROJECT_DIR$/lib/font-awesome/4.4.0/less/variables.less" />
+      <change type="MOVED" beforePath="C:\wamp\www\la-buena-leche\lib\font-awesome\4.3.0\scss\_animated.scss" afterPath="$PROJECT_DIR$/lib/font-awesome/4.4.0/scss/_animated.scss" />
+      <change type="MOVED" beforePath="C:\wamp\www\la-buena-leche\lib\font-awesome\4.3.0\scss\_bordered-pulled.scss" afterPath="$PROJECT_DIR$/lib/font-awesome/4.4.0/scss/_bordered-pulled.scss" />
+      <change type="MOVED" beforePath="C:\wamp\www\la-buena-leche\lib\font-awesome\4.3.0\scss\_core.scss" afterPath="$PROJECT_DIR$/lib/font-awesome/4.4.0/scss/_core.scss" />
+      <change type="MOVED" beforePath="C:\wamp\www\la-buena-leche\lib\font-awesome\4.3.0\scss\_fixed-width.scss" afterPath="$PROJECT_DIR$/lib/font-awesome/4.4.0/scss/_fixed-width.scss" />
+      <change type="MOVED" beforePath="C:\wamp\www\la-buena-leche\lib\font-awesome\4.3.0\scss\_icons.scss" afterPath="$PROJECT_DIR$/lib/font-awesome/4.4.0/scss/_icons.scss" />
+      <change type="MOVED" beforePath="C:\wamp\www\la-buena-leche\lib\font-awesome\4.3.0\scss\_larger.scss" afterPath="$PROJECT_DIR$/lib/font-awesome/4.4.0/scss/_larger.scss" />
+      <change type="MOVED" beforePath="C:\wamp\www\la-buena-leche\lib\font-awesome\4.3.0\scss\_list.scss" afterPath="$PROJECT_DIR$/lib/font-awesome/4.4.0/scss/_list.scss" />
+      <change type="MOVED" beforePath="C:\wamp\www\la-buena-leche\lib\font-awesome\4.3.0\scss\_mixins.scss" afterPath="$PROJECT_DIR$/lib/font-awesome/4.4.0/scss/_mixins.scss" />
+      <change type="MOVED" beforePath="C:\wamp\www\la-buena-leche\lib\font-awesome\4.3.0\scss\_path.scss" afterPath="$PROJECT_DIR$/lib/font-awesome/4.4.0/scss/_path.scss" />
+      <change type="MOVED" beforePath="C:\wamp\www\la-buena-leche\lib\font-awesome\4.3.0\scss\_rotated-flipped.scss" afterPath="$PROJECT_DIR$/lib/font-awesome/4.4.0/scss/_rotated-flipped.scss" />
+      <change type="MOVED" beforePath="C:\wamp\www\la-buena-leche\lib\font-awesome\4.3.0\scss\_stacked.scss" afterPath="$PROJECT_DIR$/lib/font-awesome/4.4.0/scss/_stacked.scss" />
+      <change type="MOVED" beforePath="C:\wamp\www\la-buena-leche\lib\font-awesome\4.3.0\scss\_variables.scss" afterPath="$PROJECT_DIR$/lib/font-awesome/4.4.0/scss/_variables.scss" />
+      <change type="MOVED" beforePath="C:\wamp\www\la-buena-leche\lib\font-awesome\4.3.0\scss\font-awesome.scss" afterPath="$PROJECT_DIR$/lib/font-awesome/4.4.0/scss/font-awesome.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/pages/_header.html" afterPath="$PROJECT_DIR$/templates/pages/_header.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="la-buena-leche.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -32,7 +100,40 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="_header.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/pages/_header.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-7.1923075">
+              <caret line="11" column="50" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="font-awesome.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/font-awesome/4.4.0/css/font-awesome.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-10.461538">
+              <caret line="49" column="40" selection-start-line="49" selection-start-column="40" selection-end-line="49" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -60,7 +161,6 @@
         <option value="$PROJECT_DIR$/templates/pages/material/material-de-muestra/index.html" />
         <option value="$PROJECT_DIR$/templates/pages/material/prestamo-de-libros/index.html" />
         <option value="$PROJECT_DIR$/templates/pages/_footer.html" />
-        <option value="$PROJECT_DIR$/templates/pages/_header.html" />
         <option value="$PROJECT_DIR$/templates/pages/actividades/calendario/index.html" />
         <option value="$PROJECT_DIR$/js/config/routes.js" />
         <option value="$PROJECT_DIR$/templates/pages/actividades/divulgativas/index.html" />
@@ -86,6 +186,7 @@
         <option value="$PROJECT_DIR$/js/controllers/actividades/calendario/index.js" />
         <option value="$PROJECT_DIR$/js/controllers/material/prestamo-de-libros/index.js" />
         <option value="$PROJECT_DIR$/js/factories/material/prestamo-de-libros-factory.js" />
+        <option value="$PROJECT_DIR$/templates/pages/_header.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/.gitignore" />
       </list>
@@ -104,7 +205,7 @@
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -127,6 +228,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -147,8 +250,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -156,11 +257,16 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
     <property name="FullScreen" value="false" />
     <property name="recentsLimit" value="5" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp\www\la-buena-leche\lib\bootstrap" />
+      <recent name="C:\wamp\www\la-buena-leche\lib\font-awesome" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\wamp\www\la-buena-leche\templates\pages\actividades\calendario\templates" />
       <recent name="C:\wamp\www\la-buena-leche\lib\angular-ui\ui-bootstrap\0.13.0" />
@@ -439,16 +545,18 @@
       <workItem from="1437415495313" duration="637000" />
       <workItem from="1437418657825" duration="3683000" />
       <workItem from="1438427572965" duration="37000" />
-      <workItem from="1438427627361" duration="143000" />
+      <workItem from="1438427627361" duration="1174000" />
+      <workItem from="1439024816810" duration="88000" />
+      <workItem from="1439025559042" duration="554000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20174000" />
+    <option name="totallyTimeSpent" value="21847000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -459,8 +567,9 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18020834" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18020834" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32899022" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -471,7 +580,6 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32899022" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -491,27 +599,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/js/controllers/header.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.019036954">
-          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/pages/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.039215688">
-          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.07614782">
-          <caret line="4" column="110" selection-start-line="4" selection-start-column="110" selection-end-line="4" selection-end-column="110" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/pages/asociate/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.1764706">
@@ -589,13 +676,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/pages/_header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.0196079">
-          <caret line="52" column="42" selection-start-line="52" selection-start-column="42" selection-end-line="52" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/pages/actividades/divulgativas/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.8143022">
@@ -667,13 +747,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/angular-bootstrap-calendar/js/angular-bootstrap-calendar.min.js.map">
-      <provider editor-type-id="sourcemapFileViewerProvider">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
+      </provider>
+      <provider editor-type-id="sourcemapFileViewerProvider">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/angular-bootstrap-calendar/js/angular-bootstrap-calendar.js">
@@ -816,13 +896,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sources/json/libros.json">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -841,6 +914,49 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.43784994">
           <caret line="23" column="36" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/pages/_header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.1923075">
+          <caret line="11" column="50" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/font-awesome/4.4.0/css/font-awesome.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/bootstrap/3.3.5/js/npm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3457627">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/angular-bootstrap-calendar/css/angular-bootstrap-calendar.min.css.map">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="60" selection-start-line="0" selection-start-column="60" selection-end-line="0" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="sourcemapFileViewerProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.461538">
+          <caret line="49" column="40" selection-start-line="49" selection-start-column="40" selection-end-line="49" selection-end-column="40" />
+          <folding />
         </state>
       </provider>
     </entry>
