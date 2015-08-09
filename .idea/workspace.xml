@@ -2,51 +2,52 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3a6be78-190b-4765-854f-c9dd623770b9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/asociate/lg/asociate.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/asociate/original/asociate.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/actividades/ludicas/observacion-de-una-toma.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/actividades/ludicas/original/observacion-de-una-toma.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/angular-breadcrumb/0.3.3/angular-breadcrumb.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/pages/comun/breadcrumbs.html" />
-      <change type="DELETED" beforePath="C:\wamp\www\la-buena-leche\images\asociate\asociate.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\la-buena-leche\images\contacto\lg\contacto_01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\la-buena-leche\images\contacto\md\contacto_01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\la-buena-leche\images\contacto\original\DSC06104.JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\la-buena-leche\images\contacto\sm\contacto_01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\la-buena-leche\images\contacto\xs\contacto_01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\la-buena-leche\images\grupos\DSC02940.JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\la-buena-leche\images\grupos\DSC03666.JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\la-buena-leche\images\grupos\DSC03674.JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\la-buena-leche\images\grupos\DSC03681.JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\la-buena-leche\images\grupos\DSC05916.JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\la-buena-leche\images\grupos\lg\grupo_01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\la-buena-leche\images\grupos\lg\grupo_02.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\la-buena-leche\images\grupos\lg\grupo_03.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\la-buena-leche\images\grupos\md\grupo_01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\la-buena-leche\images\grupos\md\grupo_02.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\la-buena-leche\images\grupos\md\grupo_03.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\la-buena-leche\images\grupos\quienes-somos.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\la-buena-leche\images\grupos\sm\grupo_01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\la-buena-leche\images\grupos\sm\grupo_02.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\la-buena-leche\images\grupos\sm\grupo_03.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\la-buena-leche\images\grupos\xs\grupo_01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\la-buena-leche\images\grupos\xs\grupo_02.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\la-buena-leche\images\grupos\xs\grupo_03.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\la-buena-leche\images\home\original\Albergue LBL'14 (126).JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\la-buena-leche\images\home\original\DSC04630.JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\la-buena-leche\images\observacion-de-una-toma.jpg" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/actividades/encuentros/lg/encuentros.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/actividades/encuentros/original/encuentros.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/actividades/divulgativas/lg/talleres.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/actividades/divulgativas/original/talleres.jpg" />
+      <change type="DELETED" beforePath="C:\wamp\www\la-buena-leche\lib\angular-breadcrumb\0.3.3\angular-breadcrumb.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\la-buena-leche\lib\bootstrap\3.3.4\css\bootstrap-theme.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\la-buena-leche\lib\bootstrap\3.3.4\css\bootstrap-theme.css.map" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\la-buena-leche\lib\bootstrap\3.3.4\css\bootstrap-theme.min.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\la-buena-leche\lib\bootstrap\3.3.4\css\bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\la-buena-leche\lib\bootstrap\3.3.4\css\bootstrap.css.map" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\la-buena-leche\lib\bootstrap\3.3.4\css\bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\la-buena-leche\lib\bootstrap\3.3.4\fonts\glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\la-buena-leche\lib\bootstrap\3.3.4\fonts\glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\la-buena-leche\lib\bootstrap\3.3.4\fonts\glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\la-buena-leche\lib\bootstrap\3.3.4\fonts\glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\la-buena-leche\lib\bootstrap\3.3.4\fonts\glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\la-buena-leche\lib\bootstrap\3.3.4\js\bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\la-buena-leche\lib\bootstrap\3.3.4\js\bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\la-buena-leche\lib\bootstrap\3.3.4\js\npm.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\la-buena-leche\templates\pages\comun\breadcrumbs.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/pages/_footer.html" afterPath="$PROJECT_DIR$/templates/pages/_footer.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/pages/_header.html" afterPath="$PROJECT_DIR$/templates/pages/_header.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/pages/material/_material-de-lactancia.html" afterPath="$PROJECT_DIR$/templates/pages/material/_material-de-lactancia.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/app.js" afterPath="$PROJECT_DIR$/js/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sources/json/calendario.json" afterPath="$PROJECT_DIR$/sources/json/calendario.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/config/config.js" afterPath="$PROJECT_DIR$/js/config/config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/controllers/header.js" afterPath="$PROJECT_DIR$/js/controllers/header.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/pages/index.html" afterPath="$PROJECT_DIR$/templates/pages/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/pages/actividades/index.html" afterPath="$PROJECT_DIR$/templates/pages/actividades/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/pages/actividades/divulgativas/index.html" afterPath="$PROJECT_DIR$/templates/pages/actividades/divulgativas/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/pages/actividades/encuentros/index.html" afterPath="$PROJECT_DIR$/templates/pages/actividades/encuentros/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/pages/actividades/ludicas/index.html" afterPath="$PROJECT_DIR$/templates/pages/actividades/ludicas/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/pages/asociate/index.html" afterPath="$PROJECT_DIR$/templates/pages/asociate/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/pages/contacto/index.html" afterPath="$PROJECT_DIR$/templates/pages/contacto/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/pages/quienes-somos/index.html" afterPath="$PROJECT_DIR$/templates/pages/quienes-somos/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/pages/informacion/beneficios/index.html" afterPath="$PROJECT_DIR$/templates/pages/informacion/beneficios/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/pages/informacion/como-empezar/index.html" afterPath="$PROJECT_DIR$/templates/pages/informacion/como-empezar/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/pages/informacion/destete/index.html" afterPath="$PROJECT_DIR$/templates/pages/informacion/destete/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/pages/informacion/extraccion-de-leche/index.html" afterPath="$PROJECT_DIR$/templates/pages/informacion/extraccion-de-leche/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/pages/informacion/grupos-de-apoyo/index.html" afterPath="$PROJECT_DIR$/templates/pages/informacion/grupos-de-apoyo/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/pages/informacion/lactancia-y-trabajo/index.html" afterPath="$PROJECT_DIR$/templates/pages/informacion/lactancia-y-trabajo/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/pages/informacion/otros-enlaces/index.html" afterPath="$PROJECT_DIR$/templates/pages/informacion/otros-enlaces/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/pages/informacion/problemas-y-soluciones/index.html" afterPath="$PROJECT_DIR$/templates/pages/informacion/problemas-y-soluciones/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/pages/material/index.html" afterPath="$PROJECT_DIR$/templates/pages/material/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/pages/material/extractores-de-leche/index.html" afterPath="$PROJECT_DIR$/templates/pages/material/extractores-de-leche/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/pages/material/material-de-muestra/index.html" afterPath="$PROJECT_DIR$/templates/pages/material/material-de-muestra/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/pages/material/prestamo-de-libros/index.html" afterPath="$PROJECT_DIR$/templates/pages/material/prestamo-de-libros/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/la-buena-leche.less" afterPath="$PROJECT_DIR$/css/la-buena-leche.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sources/json/libros.json" afterPath="$PROJECT_DIR$/sources/json/libros.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/config/routes.js" afterPath="$PROJECT_DIR$/js/config/routes.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -69,18 +70,7 @@
     <favorites_list name="la-buena-leche" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="la-buena-leche.less" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css/la-buena-leche.less">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7287234">
-              <caret line="144" column="2" selection-start-line="144" selection-start-column="2" selection-end-line="144" selection-end-column="2" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -93,21 +83,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/js/config/values.js" />
-        <option value="$PROJECT_DIR$/js/controllers/index.js" />
-        <option value="$PROJECT_DIR$/js/controllers/header.js" />
-        <option value="$PROJECT_DIR$/js/controllers/footer.js" />
-        <option value="$PROJECT_DIR$/lib/angular-ui/ui-router.min.js" />
-        <option value="$PROJECT_DIR$/js/controllers/actividades/index.js" />
-        <option value="$PROJECT_DIR$/js/controllers/asociate/index.js" />
-        <option value="$PROJECT_DIR$/js/controllers/contacto/index.js" />
-        <option value="$PROJECT_DIR$/js/controllers/quienes-somos/index.js" />
-        <option value="$PROJECT_DIR$/templates/pages/material/material-de-muestra/index.html" />
-        <option value="$PROJECT_DIR$/templates/pages/material/prestamo-de-libros/index.html" />
-        <option value="$PROJECT_DIR$/templates/pages/_footer.html" />
-        <option value="$PROJECT_DIR$/templates/pages/actividades/calendario/index.html" />
-        <option value="$PROJECT_DIR$/templates/pages/actividades/divulgativas/index.html" />
-        <option value="$PROJECT_DIR$/js/factories/actividades/calendario-factory.js" />
         <option value="$PROJECT_DIR$/templates/pages/actividades/calendario/calendar.html" />
         <option value="$PROJECT_DIR$/templates/pages/actividades/calendario/templates/calendarDayView.html" />
         <option value="$PROJECT_DIR$/templates/pages/actividades/calendario/templates/calendarSlideBox.html" />
@@ -118,31 +93,47 @@
         <option value="$PROJECT_DIR$/lib/angular-bootstrap-calendar/js/angular-bootstrap-calendar.min.js" />
         <option value="$PROJECT_DIR$/templates/pages/actividades/calendario/templates/calendarMonthView.html" />
         <option value="$PROJECT_DIR$/templates/pages/actividades/calendario/templates/calendarMonthDay.html" />
-        <option value="$PROJECT_DIR$/templates/pages/material/_material-de-lactancia.html" />
-        <option value="$PROJECT_DIR$/templates/pages/actividades/index.html" />
         <option value="$PROJECT_DIR$/templates/pages/informacion/index.html" />
-        <option value="$PROJECT_DIR$/templates/pages/material/index.html" />
         <option value="$PROJECT_DIR$/js/controllers/actividades/divulgativas/index.js" />
         <option value="$PROJECT_DIR$/js/factories/actividades/divulgativas-factory.js" />
         <option value="$PROJECT_DIR$/js/controllers/actividades/calendario/index.js" />
         <option value="$PROJECT_DIR$/js/controllers/material/prestamo-de-libros/index.js" />
         <option value="$PROJECT_DIR$/js/factories/material/prestamo-de-libros-factory.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/templates/pages/_header.html" />
-        <option value="$PROJECT_DIR$/templates/pages/asociate/index.html" />
-        <option value="$PROJECT_DIR$/templates/pages/contacto/index.html" />
-        <option value="$PROJECT_DIR$/templates/pages/actividades/ludicas/index.html" />
         <option value="$PROJECT_DIR$/sources/json/libros.json" />
         <option value="$PROJECT_DIR$/lib/angular-breadcrumb/0.3.3/angular-breadcrumb.min.js" />
-        <option value="$PROJECT_DIR$/js/app.js" />
-        <option value="$PROJECT_DIR$/templates/pages/index.html" />
-        <option value="$PROJECT_DIR$/js/config/routes.js" />
-        <option value="$PROJECT_DIR$/templates/pages/actividades/encuentros/index.html" />
-        <option value="$PROJECT_DIR$/templates/pages/quienes-somos/index.html" />
         <option value="$PROJECT_DIR$/templates/pages/comun/breadcrumbs.html" />
-        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/js/config/routes.js" />
+        <option value="$PROJECT_DIR$/js/app.js" />
         <option value="$PROJECT_DIR$/js/config/config.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/js/controllers/header.js" />
+        <option value="$PROJECT_DIR$/templates/pages/actividades/divulgativas/index.html" />
+        <option value="$PROJECT_DIR$/sources/json/calendario.json" />
+        <option value="$PROJECT_DIR$/templates/pages/actividades/ludicas/index.html" />
+        <option value="$PROJECT_DIR$/templates/pages/actividades/encuentros/index.html" />
+        <option value="$PROJECT_DIR$/templates/pages/material/extractores-de-leche/index.html" />
         <option value="$PROJECT_DIR$/css/la-buena-leche.less" />
+        <option value="$PROJECT_DIR$/templates/pages/informacion/como-empezar/index.html" />
+        <option value="$PROJECT_DIR$/templates/pages/material/prestamo-de-libros/index.html" />
+        <option value="$PROJECT_DIR$/templates/pages/informacion/beneficios/index.html" />
+        <option value="$PROJECT_DIR$/templates/pages/informacion/destete/index.html" />
+        <option value="$PROJECT_DIR$/templates/pages/informacion/extraccion-de-leche/index.html" />
+        <option value="$PROJECT_DIR$/templates/pages/informacion/grupos-de-apoyo/index.html" />
+        <option value="$PROJECT_DIR$/templates/pages/informacion/lactancia-y-trabajo/index.html" />
+        <option value="$PROJECT_DIR$/templates/pages/informacion/otros-enlaces/index.html" />
+        <option value="$PROJECT_DIR$/templates/pages/informacion/problemas-y-soluciones/index.html" />
+        <option value="$PROJECT_DIR$/templates/pages/material/material-de-muestra/index.html" />
+        <option value="$PROJECT_DIR$/templates/pages/quienes-somos/index.html" />
+        <option value="$PROJECT_DIR$/templates/pages/actividades/calendario/index.html" />
+        <option value="$PROJECT_DIR$/templates/pages/actividades/index.html" />
+        <option value="$PROJECT_DIR$/templates/pages/asociate/index.html" />
+        <option value="$PROJECT_DIR$/templates/pages/contacto/index.html" />
+        <option value="$PROJECT_DIR$/templates/pages/material/index.html" />
+        <option value="$PROJECT_DIR$/templates/pages/material/_material-de-lactancia.html" />
+        <option value="$PROJECT_DIR$/templates/pages/_footer.html" />
+        <option value="$PROJECT_DIR$/templates/pages/_header.html" />
+        <option value="$PROJECT_DIR$/templates/pages/index.html" />
       </list>
     </option>
   </component>
@@ -182,8 +173,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -202,23 +191,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="la-buena-leche" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="la-buena-leche" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -232,10 +209,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp\www\la-buena-leche\images\actividades\encuentros\original" />
+      <recent name="C:\wamp\www\la-buena-leche\images\actividades\divulgativas\original" />
+      <recent name="C:\wamp\www\la-buena-leche\lib\angular-ui\ui-bootstrap\0.13.2" />
       <recent name="C:\wamp\www\la-buena-leche\images\actividades\ludicas\original" />
       <recent name="C:\wamp\www\la-buena-leche\images\asociate\original" />
-      <recent name="C:\wamp\www\la-buena-leche\lib\bootstrap" />
-      <recent name="C:\wamp\www\la-buena-leche\lib\font-awesome" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\wamp\www\la-buena-leche\images\actividades\ludicas" />
@@ -517,16 +495,17 @@
       <workItem from="1438427572965" duration="37000" />
       <workItem from="1438427627361" duration="1174000" />
       <workItem from="1439024816810" duration="88000" />
-      <workItem from="1439025559042" duration="7078000" />
+      <workItem from="1439025559042" duration="7174000" />
+      <workItem from="1439112514632" duration="11455000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28371000" />
+    <option name="totallyTimeSpent" value="39922000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -538,9 +517,8 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18020834" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18020834" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32899022" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -551,6 +529,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32899022" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -569,100 +548,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/templates/pages/actividades/calendario/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.19607843">
-          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/controllers/asociate/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2094065">
-          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/angular-ui/ui-router/0.2.15/ui-router.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.9445727">
-          <caret line="6" column="30271" selection-start-line="6" selection-start-column="30271" selection-end-line="6" selection-end-column="30271" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/pages/actividades/calendario/templates/calendar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.078431375">
-          <caret line="4" column="57" selection-start-line="4" selection-start-column="57" selection-end-line="4" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/pages/actividades/calendario/templates/calendarDayView.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.15686275">
-          <caret line="8" column="57" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/pages/actividades/calendario/templates/calendarSlideBox.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.21568628">
-          <caret line="11" column="66" selection-start-line="11" selection-start-column="66" selection-end-line="11" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/pages/actividades/calendario/templates/calendarWeekView.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1764706">
-          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/pages/actividades/calendario/templates/calendarYearView.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.43137255">
-          <caret line="22" column="6" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/pages/actividades/calendario/templates/calendarMonthEventsList.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.19607843">
-          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/angular-bootstrap-calendar/js/angular-bootstrap-calendar.min.js.map">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider editor-type-id="sourcemapFileViewerProvider">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/angular-bootstrap-calendar/js/angular-bootstrap-calendar.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.9955206">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/angular-bootstrap-calendar/js/angular-bootstrap-calendar-tpls.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.17228465">
-          <caret line="6" column="2919" selection-start-line="6" selection-start-column="2919" selection-end-line="6" selection-end-column="2919" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/angular-bootstrap-calendar/js/angular-bootstrap-calendar.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.23595506">
-          <caret line="6" column="7462" selection-start-line="6" selection-start-column="7462" selection-end-line="6" selection-end-column="7462" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/angular-bootstrap-calendar/js/angular-bootstrap-calendar-tpls.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.45454547">
@@ -691,24 +576,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/pages/material/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2109929">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/pages/informacion/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.09042553">
           <caret line="3" column="51" selection-start-line="3" selection-start-column="51" selection-end-line="3" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/pages/material/_material-de-lactancia.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.78368795">
-          <caret line="26" column="58" selection-start-line="26" selection-start-column="58" selection-end-line="26" selection-end-column="58" />
         </state>
       </provider>
     </entry>
@@ -754,13 +625,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/controllers/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32362822">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/font-awesome/4.4.0/css/font-awesome.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -773,7 +637,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3457627">
           <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -781,7 +644,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="60" selection-start-line="0" selection-start-column="60" selection-end-line="0" selection-end-column="60" />
-          <folding />
         </state>
       </provider>
       <provider editor-type-id="sourcemapFileViewerProvider">
@@ -801,35 +663,10 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/pages/asociate/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.019607844">
-          <caret line="1" column="97" selection-start-line="1" selection-start-column="97" selection-end-line="1" selection-end-column="97" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/pages/actividades/ludicas/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.11764706">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sources/json/lemas.json">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.29411766">
           <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sources/json/calendario.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.019607844">
-          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -837,101 +674,138 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.39215687">
           <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/controllers/header.js">
+    <entry file="file://$PROJECT_DIR$/js/controllers/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/angular-breadcrumb/0.3.3/angular-breadcrumb.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.05711086">
-          <caret line="3" column="4573" selection-start-line="3" selection-start-column="4573" selection-end-line="3" selection-end-column="4573" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/pages/actividades/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.05882353">
-          <caret line="3" column="51" selection-start-line="3" selection-start-column="51" selection-end-line="3" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/config/routes.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7905935">
-          <caret line="181" column="41" selection-start-line="181" selection-start-column="41" selection-end-line="181" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/pages/_header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.24567474">
-          <caret line="33" column="91" selection-start-line="33" selection-start-column="91" selection-end-line="33" selection-end-column="91" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/pages/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="15" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.02881356">
-          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+        <state vertical-scroll-proportion="0.32362822">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/config/config.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.25084746">
-          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+        <state vertical-scroll-proportion="0.17133258">
+          <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.07614782">
+          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/config/routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2956327">
+          <caret line="20" column="39" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sources/json/calendario.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.29411766">
+          <caret line="258" column="33" selection-start-line="258" selection-start-column="33" selection-end-line="258" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/pages/informacion/destete/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39215687">
+          <caret line="95" column="57" selection-start-line="95" selection-start-column="57" selection-end-line="95" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/pages/informacion/extraccion-de-leche/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.0784314">
+          <caret line="58" column="41" selection-start-line="58" selection-start-column="41" selection-end-line="58" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/pages/informacion/grupos-de-apoyo/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.27450982">
+          <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/pages/informacion/lactancia-y-trabajo/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3137255">
+          <caret line="103" column="8" selection-start-line="103" selection-start-column="8" selection-end-line="103" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/pages/informacion/otros-enlaces/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3529412">
+          <caret line="25" column="43" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/pages/informacion/problemas-y-soluciones/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.7058823">
+          <caret line="87" column="40" selection-start-line="87" selection-start-column="40" selection-end-line="87" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/pages/informacion/como-empezar/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.039215688">
+          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/pages/material/extractores-de-leche/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4509804">
+          <caret line="23" column="126" selection-start-line="23" selection-start-column="126" selection-end-line="23" selection-end-column="126" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/pages/material/material-de-muestra/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.43137255">
+          <caret line="22" column="56" selection-start-line="22" selection-start-column="56" selection-end-line="22" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/pages/material/prestamo-de-libros/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.27450982">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/pages/quienes-somos/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="-0.4509804">
           <caret line="0" column="28" selection-start-line="0" selection-start-column="28" selection-end-line="0" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.49822694">
-          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/pages/contacto/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.030141843">
-          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="128" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/pages/comun/breadcrumbs.html">
+    <entry file="file://$PROJECT_DIR$/templates/pages/actividades/calendario/templates/calendar.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -939,18 +813,130 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/templates/pages/actividades/calendario/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="42" selection-start-line="0" selection-start-column="42" selection-end-line="0" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/pages/actividades/divulgativas/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.039215688">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/templates/pages/actividades/encuentros/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0">
-          <caret line="0" column="42" selection-start-line="0" selection-start-column="42" selection-end-line="0" selection-end-column="42" />
+        <state vertical-scroll-proportion="0.19607843">
+          <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/pages/actividades/ludicas/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.019607844">
+          <caret line="1" column="150" selection-start-line="1" selection-start-column="150" selection-end-line="1" selection-end-column="150" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/pages/actividades/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.13725491">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/pages/asociate/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.09803922">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/pages/contacto/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.039215688">
+          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/pages/material/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.05882353">
+          <caret line="3" column="62" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/pages/material/_material-de-lactancia.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.19607843">
+          <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/pages/_footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.11764706">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/pages/_header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.09803922">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/pages/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.13725491">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.78431374">
+          <caret line="40" column="55" selection-start-line="40" selection-start-column="55" selection-end-line="40" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/controllers/header.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.13325869">
+          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/la-buena-leche.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7287234">
-          <caret line="144" column="2" selection-start-line="144" selection-start-column="2" selection-end-line="144" selection-end-column="2" />
+        <state vertical-scroll-proportion="1.0196079">
+          <caret line="52" column="79" selection-start-line="52" selection-start-column="79" selection-end-line="52" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/pages/informacion/beneficios/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3529412">
+          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
           <folding />
         </state>
       </provider>

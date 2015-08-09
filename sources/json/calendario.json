@@ -253,6 +253,15 @@
       "incrementsBadgeTotal": true
     },
     {
+      "title": "Semana Mundial de la Lactancia Materna",
+      "type": "important",
+      "startsAt": "2015-08-01 00:00",
+      "endsAt": "2015-08-07 23:59",
+      "editable": false,
+      "deletable": false,
+      "incrementsBadgeTotal": true
+    },
+    {
       "title": "Encuentro Solares",
       "type": "info",
       "startsAt": "2015-08-03 17:30",
@@ -320,15 +329,6 @@
       "type": "info",
       "startsAt": "2015-09-25 17:00",
       "endsAt": "2015-09-25 19:00",
-      "editable": false,
-      "deletable": false,
-      "incrementsBadgeTotal": true
-    },
-    {
-      "title": "Semana Mundial de la Lactancia Materna",
-      "type": "important",
-      "startsAt": "2015-10-04",
-      "endsAt": "2015-10-10",
       "editable": false,
       "deletable": false,
       "incrementsBadgeTotal": true

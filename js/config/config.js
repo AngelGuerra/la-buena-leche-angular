@@ -5,15 +5,9 @@
         .module('laBuenaLeche')
         .config(config);
 
-    config.$inject = ['$breadcrumbProvider', 'calendarConfigProvider'];
+    config.$inject = ['calendarConfigProvider'];
 
-    function config($breadcrumbProvider, calendarConfigProvider){
-        $breadcrumbProvider.setOptions({
-            //templateUrl: 'templates/pages/comun/breadcrumbs.html',
-            prefixStateName: 'home',
-            includeAbstract: true
-        });
-
+    function config(calendarConfigProvider){
         calendarConfigProvider.setDateFormats({
             hour: 'HH:mm' //this will configure the hour view to display in 24 hour format rather than the default of 12 hour
         });

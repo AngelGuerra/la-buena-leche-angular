@@ -4,7 +4,7 @@
             <img src="images/logo.png" alt="Logo de la Asociación La Buena Leche">
         </a>
 
-        <div class="social visible-xs pull-right">
+        <div class="social pull-right">
             <a href="http://compartiendocrianza.blogspot.com.es/" target="_blank" data-toggle="tooltip" data-placement="bottom" title="Nuestro Blog">
                 <i class="fa fa-rss fa-2x"></i>
             </a>
@@ -31,12 +31,11 @@
 
             <div class="collapse navbar-collapse" id="menu">
                 <ul class="nav navbar-nav">
-                    <li><a ui-sref="home" ng-class="{ active: isActive('/home') }"><i class="fa fa-home"></i></a></li>
-                    <li><a ui-sref="quienes-somos" ng-class="{ active: isActive('/quienes-somos') }">Quiénes somos</a>
+                    <li><a ui-sref="home"><i class="fa fa-home"></i></a></li>
+                    <li><a ui-sref="quienes-somos">Quiénes somos</a>
                     </li>
                     <li>
-                        <a class="dropdown-toggle" data-toggle="dropdown"
-                           ng-class="{ active: isActive('/actividades') }">Actividades <span class="caret"></span></a>
+                        <a class="dropdown-toggle" data-toggle="dropdown">Actividades <span class="caret"></span></a>
                         <ul class="dropdown-menu" role="menu">
                             <li><a ui-sref="actividades.encuentros">Encuentros</a></li>
                             <li><a ui-sref="actividades.divulgativas">Actividades divulgativas</a></li>
@@ -45,8 +44,7 @@
                         </ul>
                     </li>
                     <li>
-                        <a class="dropdown-toggle" data-toggle="dropdown" ng-class="{ active: isActive('/material') }">Material
-                            <span class="caret"></span></a>
+                        <a class="dropdown-toggle" data-toggle="dropdown">Material <span class="caret"></span></a>
                         <ul class="dropdown-menu" role="menu">
                             <li><a ui-sref="material.extractores-de-leche">Extractores de leche</a></li>
                             <li><a ui-sref="material.prestamo-de-libros">Préstamo de libros</a></li>
@@ -54,8 +52,7 @@
                         </ul>
                     </li>
                     <li>
-                        <a class="dropdown-toggle" data-toggle="dropdown"
-                           ng-class="{ active: isActive('/informacion') }">Información <span class="caret"></span></a>
+                        <a class="dropdown-toggle" data-toggle="dropdown">Información <span class="caret"></span></a>
                         <ul class="dropdown-menu" role="menu">
                             <li><a ui-sref="informacion.como-empezar">Cómo empezar</a></li>
                             <li><a ui-sref="informacion.beneficios">Beneficios</a></li>
@@ -68,8 +65,8 @@
                         </ul>
                     </li>
                     <li><a href="http://compartiendocrianza.blogspot.com.es/" target="_blank">Blog</a></li>
-                    <li><a ui-sref="asociate" ng-class="{ active: isActive('/asociate') }">Asóciate</a></li>
-                    <li><a ui-sref="contacto" ng-class="{ active: isActive('/contacta') }">Contacta</a></li>
+                    <li><a ui-sref="asociate">Asóciate</a></li>
+                    <li><a ui-sref="contacto">Contacta</a></li>
                 </ul>
             </div>
         </div>

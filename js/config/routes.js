@@ -18,68 +18,44 @@
                 url: '/home',
                 templateUrl: 'templates/pages/index.html',
                 controller: 'IndexController',
-                controllerAs: 'homeCtrl',
-                ncyBreadcrumb: {
-                    label: 'Inicio'
-                }
+                controllerAs: 'homeCtrl'
             })
             .state('actividades', {
                 abstract: true,
                 url: '/actividades',
-                templateUrl: 'templates/pages/actividades/index.html',
-                ncyBreadcrumb: {
-                    label: 'actividades'
-                }
+                templateUrl: 'templates/pages/actividades/index.html'
             })
             .state('actividades.calendario', {
                 url: '/calendario',
                 templateUrl: 'templates/pages/actividades/calendario/index.html',
                 controller: 'ActividadesCalendarioIndexController',
-                controllerAs: 'calendarioCtrl',
-                ncyBreadcrumb: {
-                    label: 'calendario'
-                }
+                controllerAs: 'calendarioCtrl'
             })
             .state('actividades.encuentros', {
                 url: '/encuentros',
-                templateUrl: 'templates/pages/actividades/encuentros/index.html',
-                ncyBreadcrumb: {
-                    label: 'encuentros'
-                }
+                templateUrl: 'templates/pages/actividades/encuentros/index.html'
             })
             .state('actividades.divulgativas', {
                 url: '/divulgativas',
                 templateUrl: 'templates/pages/actividades/divulgativas/index.html',
                 controller: 'ActividadesDivulgativasIndexController',
-                controllerAs: 'divulgativasCtrl',
-                ncyBreadcrumb: {
-                    label: 'actividades divulgativas'
-                }
+                controllerAs: 'divulgativasCtrl'
             })
             .state('actividades.ludicas', {
                 url: '/ludicas',
-                templateUrl: 'templates/pages/actividades/ludicas/index.html',
-                ncyBreadcrumb: {
-                    label: 'actividades lúdicas'
-                }
+                templateUrl: 'templates/pages/actividades/ludicas/index.html'
             })
             .state('asociate', {
                 url: '/asociate',
                 templateUrl: 'templates/pages/asociate/index.html',
                 controller: 'AsociateIndexController',
-                controllerAs: 'asociateCtrl',
-                ncyBreadcrumb: {
-                    label: 'asóciate'
-                }
+                controllerAs: 'asociateCtrl'
             })
             .state('contacto', {
                 url: '/contacta',
                 templateUrl: 'templates/pages/contacto/index.html',
                 controller: 'ContactoIndexController',
-                controllerAs: 'contactoCtrl',
-                ncyBreadcrumb: {
-                    label: 'contacto'
-                }
+                controllerAs: 'contactoCtrl'
             })
             .state('informacion', {
                 abstract: true,
@@ -88,99 +64,60 @@
             })
             .state('informacion.beneficios', {
                 url: '/beneficios-de-la-lactancia',
-                templateUrl: 'templates/pages/informacion/beneficios/index.html',
-                ncyBreadcrumb: {
-                    label: 'beneficios'
-                }
+                templateUrl: 'templates/pages/informacion/beneficios/index.html'
             })
             .state('informacion.como-empezar', {
                 url: '/como-empezar',
-                templateUrl: 'templates/pages/informacion/como-empezar/index.html',
-                ncyBreadcrumb: {
-                    label: 'cómo empezar'
-                }
+                templateUrl: 'templates/pages/informacion/como-empezar/index.html'
             })
             .state('informacion.destete', {
                 url: '/destete',
-                templateUrl: 'templates/pages/informacion/destete/index.html',
-                ncyBreadcrumb: {
-                    label: 'destete'
-                }
+                templateUrl: 'templates/pages/informacion/destete/index.html'
             })
             .state('informacion.extraccion-de-leche', {
                 url: '/extraccion-de-leche',
-                templateUrl: 'templates/pages/informacion/extraccion-de-leche/index.html',
-                ncyBreadcrumb: {
-                    label: 'extracción de leche'
-                }
+                templateUrl: 'templates/pages/informacion/extraccion-de-leche/index.html'
             })
             .state('informacion.grupos-de-apoyo', {
                 url: '/grupos-de-apoyo',
-                templateUrl: 'templates/pages/informacion/grupos-de-apoyo/index.html',
-                ncyBreadcrumb: {
-                    label: 'grupos de apoyo'
-                }
+                templateUrl: 'templates/pages/informacion/grupos-de-apoyo/index.html'
             })
             .state('informacion.lactancia-y-trabajo', {
                 url: '/lactancia-y-trabajo',
-                templateUrl: 'templates/pages/informacion/lactancia-y-trabajo/index.html',
-                ncyBreadcrumb: {
-                    label: 'lactancia y trabajo'
-                }
+                templateUrl: 'templates/pages/informacion/lactancia-y-trabajo/index.html'
             })
             .state('informacion.otros-enlaces', {
                 url: '/otros-enlaces',
-                templateUrl: 'templates/pages/informacion/otros-enlaces/index.html',
-                ncyBreadcrumb: {
-                    label: 'otros enlaces'
-                }
+                templateUrl: 'templates/pages/informacion/otros-enlaces/index.html'
             })
             .state('informacion.problemas-y-soluciones', {
                 url: '/problemas-y-soluciones',
-                templateUrl: 'templates/pages/informacion/problemas-y-soluciones/index.html',
-                ncyBreadcrumb: {
-                    label: 'problemas y soluciones'
-                }
+                templateUrl: 'templates/pages/informacion/problemas-y-soluciones/index.html'
             })
             .state('material', {
                 abstract: true,
                 url: '/material',
-                templateUrl: 'templates/pages/material/index.html',
-                ncyBreadcrumb: {
-                    label: 'material'
-                }
+                templateUrl: 'templates/pages/material/index.html'
             })
             .state('material.extractores-de-leche', {
                 url: '/extractores-de-leche',
-                templateUrl: 'templates/pages/material/extractores-de-leche/index.html',
-                ncyBreadcrumb: {
-                    label: 'extractores de leche'
-                }
+                templateUrl: 'templates/pages/material/extractores-de-leche/index.html'
             })
             .state('material.material-de-muestra', {
                 url: '/material-de-muestra',
-                templateUrl: 'templates/pages/material/material-de-muestra/index.html',
-                ncyBreadcrumb: {
-                    label: 'material de muestra'
-                }
+                templateUrl: 'templates/pages/material/material-de-muestra/index.html'
             })
             .state('material.prestamo-de-libros', {
                 url: '/prestamo-de-libros',
                 templateUrl: 'templates/pages/material/prestamo-de-libros/index.html',
                 controller: 'PrestamoIndexController',
-                controllerAs: 'prestamoCtrl',
-                ncyBreadcrumb: {
-                    label: 'préstamo de libros'
-                }
+                controllerAs: 'prestamoCtrl'
             })
             .state('quienes-somos', {
                 url: '/quienes-somos',
                 templateUrl: 'templates/pages/quienes-somos/index.html',
                 controller: 'QuienesSomosIndexController',
-                controllerAs: 'quienesSomosCtrl',
-                ncyBreadcrumb: {
-                    label: 'quiénes somos'
-                }
+                controllerAs: 'quienesSomosCtrl'
             }
         );
     }
