@@ -23,5 +23,7 @@
             eventsLabel: 'Eventos', //This will set the events label on the day view
             timeLabel: 'Hora' //This will set the time label on the time view
         });
+
+        calendarConfigProvider.setDateFormatter('moment');
     }
 })();

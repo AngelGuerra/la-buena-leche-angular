@@ -2,53 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3a6be78-190b-4765-854f-c9dd623770b9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/actividades/encuentros/lg/encuentros.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/actividades/encuentros/original/encuentros.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/actividades/divulgativas/lg/talleres.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/actividades/divulgativas/original/talleres.jpg" />
-      <change type="DELETED" beforePath="C:\wamp\www\la-buena-leche\lib\angular-breadcrumb\0.3.3\angular-breadcrumb.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\la-buena-leche\lib\bootstrap\3.3.4\css\bootstrap-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\la-buena-leche\lib\bootstrap\3.3.4\css\bootstrap-theme.css.map" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\la-buena-leche\lib\bootstrap\3.3.4\css\bootstrap-theme.min.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\la-buena-leche\lib\bootstrap\3.3.4\css\bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\la-buena-leche\lib\bootstrap\3.3.4\css\bootstrap.css.map" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\la-buena-leche\lib\bootstrap\3.3.4\css\bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\la-buena-leche\lib\bootstrap\3.3.4\fonts\glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\la-buena-leche\lib\bootstrap\3.3.4\fonts\glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\la-buena-leche\lib\bootstrap\3.3.4\fonts\glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\la-buena-leche\lib\bootstrap\3.3.4\fonts\glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\la-buena-leche\lib\bootstrap\3.3.4\fonts\glyphicons-halflings-regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\la-buena-leche\lib\bootstrap\3.3.4\js\bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\la-buena-leche\lib\bootstrap\3.3.4\js\bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\la-buena-leche\lib\bootstrap\3.3.4\js\npm.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\la-buena-leche\templates\pages\comun\breadcrumbs.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/pages/_footer.html" afterPath="$PROJECT_DIR$/templates/pages/_footer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/pages/_header.html" afterPath="$PROJECT_DIR$/templates/pages/_header.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/pages/material/_material-de-lactancia.html" afterPath="$PROJECT_DIR$/templates/pages/material/_material-de-lactancia.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/app.js" afterPath="$PROJECT_DIR$/js/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sources/json/calendario.json" afterPath="$PROJECT_DIR$/sources/json/calendario.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/angular-bootstrap-calendar/0.14.6/js/angular-bootstrap-calendar-tpls.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/angular-bootstrap-calendar/0.14.6/js/angular-bootstrap-calendar-tpls.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/angular-bootstrap-calendar/0.14.6/js/angular-bootstrap-calendar-tpls.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/angular-bootstrap-calendar/0.14.6/css/angular-bootstrap-calendar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/angular-bootstrap-calendar/0.14.6/js/angular-bootstrap-calendar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/angular-bootstrap-calendar/0.14.6/css/angular-bootstrap-calendar.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/angular-bootstrap-calendar/0.14.6/css/angular-bootstrap-calendar.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/angular-bootstrap-calendar/0.14.6/js/angular-bootstrap-calendar.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/angular-bootstrap-calendar/0.14.6/js/angular-bootstrap-calendar.min.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\la-buena-leche\lib\angular-bootstrap-calendar\css\angular-bootstrap-calendar.css" afterPath="$PROJECT_DIR$/lib/angular-bootstrap-calendar/0.10.6/css/angular-bootstrap-calendar.css" />
+      <change type="MOVED" beforePath="C:\wamp\www\la-buena-leche\lib\angular-bootstrap-calendar\css\angular-bootstrap-calendar.min.css" afterPath="$PROJECT_DIR$/lib/angular-bootstrap-calendar/0.10.6/css/angular-bootstrap-calendar.min.css" />
+      <change type="MOVED" beforePath="C:\wamp\www\la-buena-leche\lib\angular-bootstrap-calendar\css\angular-bootstrap-calendar.min.css.map" afterPath="$PROJECT_DIR$/lib/angular-bootstrap-calendar/0.10.6/css/angular-bootstrap-calendar.min.css.map" />
+      <change type="MOVED" beforePath="C:\wamp\www\la-buena-leche\lib\angular-bootstrap-calendar\js\angular-bootstrap-calendar-tpls.js" afterPath="$PROJECT_DIR$/lib/angular-bootstrap-calendar/0.10.6/js/angular-bootstrap-calendar-tpls.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\la-buena-leche\lib\angular-bootstrap-calendar\js\angular-bootstrap-calendar-tpls.min.js" afterPath="$PROJECT_DIR$/lib/angular-bootstrap-calendar/0.10.6/js/angular-bootstrap-calendar-tpls.min.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\la-buena-leche\lib\angular-bootstrap-calendar\js\angular-bootstrap-calendar-tpls.min.js.map" afterPath="$PROJECT_DIR$/lib/angular-bootstrap-calendar/0.10.6/js/angular-bootstrap-calendar-tpls.min.js.map" />
+      <change type="MOVED" beforePath="C:\wamp\www\la-buena-leche\lib\angular-bootstrap-calendar\js\angular-bootstrap-calendar.js" afterPath="$PROJECT_DIR$/lib/angular-bootstrap-calendar/0.10.6/js/angular-bootstrap-calendar.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\la-buena-leche\lib\angular-bootstrap-calendar\js\angular-bootstrap-calendar.min.js" afterPath="$PROJECT_DIR$/lib/angular-bootstrap-calendar/0.10.6/js/angular-bootstrap-calendar.min.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\la-buena-leche\lib\angular-bootstrap-calendar\js\angular-bootstrap-calendar.min.js.map" afterPath="$PROJECT_DIR$/lib/angular-bootstrap-calendar/0.10.6/js/angular-bootstrap-calendar.min.js.map" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/config/config.js" afterPath="$PROJECT_DIR$/js/config/config.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/controllers/header.js" afterPath="$PROJECT_DIR$/js/controllers/header.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/pages/actividades/index.html" afterPath="$PROJECT_DIR$/templates/pages/actividades/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/pages/actividades/divulgativas/index.html" afterPath="$PROJECT_DIR$/templates/pages/actividades/divulgativas/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/pages/actividades/encuentros/index.html" afterPath="$PROJECT_DIR$/templates/pages/actividades/encuentros/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/pages/actividades/ludicas/index.html" afterPath="$PROJECT_DIR$/templates/pages/actividades/ludicas/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/pages/asociate/index.html" afterPath="$PROJECT_DIR$/templates/pages/asociate/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/pages/informacion/beneficios/index.html" afterPath="$PROJECT_DIR$/templates/pages/informacion/beneficios/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/pages/informacion/como-empezar/index.html" afterPath="$PROJECT_DIR$/templates/pages/informacion/como-empezar/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/pages/informacion/destete/index.html" afterPath="$PROJECT_DIR$/templates/pages/informacion/destete/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/pages/informacion/extraccion-de-leche/index.html" afterPath="$PROJECT_DIR$/templates/pages/informacion/extraccion-de-leche/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/pages/informacion/grupos-de-apoyo/index.html" afterPath="$PROJECT_DIR$/templates/pages/informacion/grupos-de-apoyo/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/pages/informacion/lactancia-y-trabajo/index.html" afterPath="$PROJECT_DIR$/templates/pages/informacion/lactancia-y-trabajo/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/pages/informacion/otros-enlaces/index.html" afterPath="$PROJECT_DIR$/templates/pages/informacion/otros-enlaces/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/pages/informacion/problemas-y-soluciones/index.html" afterPath="$PROJECT_DIR$/templates/pages/informacion/problemas-y-soluciones/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/pages/material/index.html" afterPath="$PROJECT_DIR$/templates/pages/material/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/pages/material/extractores-de-leche/index.html" afterPath="$PROJECT_DIR$/templates/pages/material/extractores-de-leche/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/pages/material/material-de-muestra/index.html" afterPath="$PROJECT_DIR$/templates/pages/material/material-de-muestra/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/pages/material/prestamo-de-libros/index.html" afterPath="$PROJECT_DIR$/templates/pages/material/prestamo-de-libros/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/la-buena-leche.less" afterPath="$PROJECT_DIR$/css/la-buena-leche.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/config/routes.js" afterPath="$PROJECT_DIR$/js/config/routes.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/controllers/actividades/calendario/index.js" afterPath="$PROJECT_DIR$/js/controllers/actividades/calendario/index.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="la-buena-leche.iws" />
@@ -70,7 +44,48 @@
     <favorites_list name="la-buena-leche" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.43137255">
+              <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/controllers/actividades/calendario/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/config/config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="26" column="58" selection-start-line="26" selection-start-column="58" selection-end-line="26" selection-end-column="58" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/pages/actividades/calendario/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.65384614">
+              <caret line="1" column="67" selection-start-line="1" selection-start-column="67" selection-end-line="1" selection-end-column="67" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -83,7 +98,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/templates/pages/actividades/calendario/calendar.html" />
         <option value="$PROJECT_DIR$/templates/pages/actividades/calendario/templates/calendarDayView.html" />
         <option value="$PROJECT_DIR$/templates/pages/actividades/calendario/templates/calendarSlideBox.html" />
         <option value="$PROJECT_DIR$/templates/pages/actividades/calendario/templates/calendarWeekView.html" />
@@ -96,7 +110,6 @@
         <option value="$PROJECT_DIR$/templates/pages/informacion/index.html" />
         <option value="$PROJECT_DIR$/js/controllers/actividades/divulgativas/index.js" />
         <option value="$PROJECT_DIR$/js/factories/actividades/divulgativas-factory.js" />
-        <option value="$PROJECT_DIR$/js/controllers/actividades/calendario/index.js" />
         <option value="$PROJECT_DIR$/js/controllers/material/prestamo-de-libros/index.js" />
         <option value="$PROJECT_DIR$/js/factories/material/prestamo-de-libros-factory.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
@@ -105,11 +118,8 @@
         <option value="$PROJECT_DIR$/templates/pages/comun/breadcrumbs.html" />
         <option value="$PROJECT_DIR$/js/config/routes.js" />
         <option value="$PROJECT_DIR$/js/app.js" />
-        <option value="$PROJECT_DIR$/js/config/config.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js/controllers/header.js" />
         <option value="$PROJECT_DIR$/templates/pages/actividades/divulgativas/index.html" />
-        <option value="$PROJECT_DIR$/sources/json/calendario.json" />
         <option value="$PROJECT_DIR$/templates/pages/actividades/ludicas/index.html" />
         <option value="$PROJECT_DIR$/templates/pages/actividades/encuentros/index.html" />
         <option value="$PROJECT_DIR$/templates/pages/material/extractores-de-leche/index.html" />
@@ -125,7 +135,6 @@
         <option value="$PROJECT_DIR$/templates/pages/informacion/problemas-y-soluciones/index.html" />
         <option value="$PROJECT_DIR$/templates/pages/material/material-de-muestra/index.html" />
         <option value="$PROJECT_DIR$/templates/pages/quienes-somos/index.html" />
-        <option value="$PROJECT_DIR$/templates/pages/actividades/calendario/index.html" />
         <option value="$PROJECT_DIR$/templates/pages/actividades/index.html" />
         <option value="$PROJECT_DIR$/templates/pages/asociate/index.html" />
         <option value="$PROJECT_DIR$/templates/pages/contacto/index.html" />
@@ -134,6 +143,12 @@
         <option value="$PROJECT_DIR$/templates/pages/_footer.html" />
         <option value="$PROJECT_DIR$/templates/pages/_header.html" />
         <option value="$PROJECT_DIR$/templates/pages/index.html" />
+        <option value="$PROJECT_DIR$/lib/angular-bootstrap-calendar/0.14.6/js/angular-bootstrap-calendar.min.js" />
+        <option value="$PROJECT_DIR$/js/controllers/actividades/calendario/index.js" />
+        <option value="$PROJECT_DIR$/sources/json/calendario.json" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/templates/pages/actividades/calendario/index.html" />
+        <option value="$PROJECT_DIR$/js/config/config.js" />
       </list>
     </option>
   </component>
@@ -209,18 +224,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp\www\la-buena-leche\lib\angular-bootstrap-calendar\0.14.6" />
       <recent name="C:\wamp\www\la-buena-leche\images\actividades\encuentros\original" />
       <recent name="C:\wamp\www\la-buena-leche\images\actividades\divulgativas\original" />
       <recent name="C:\wamp\www\la-buena-leche\lib\angular-ui\ui-bootstrap\0.13.2" />
       <recent name="C:\wamp\www\la-buena-leche\images\actividades\ludicas\original" />
-      <recent name="C:\wamp\www\la-buena-leche\images\asociate\original" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp\www\la-buena-leche\lib\angular-bootstrap-calendar\0.10.6" />
       <recent name="C:\wamp\www\la-buena-leche\images\actividades\ludicas" />
       <recent name="C:\wamp\www\la-buena-leche\templates\pages\actividades\calendario\templates" />
       <recent name="C:\wamp\www\la-buena-leche\lib\angular-ui\ui-bootstrap\0.13.0" />
       <recent name="C:\wamp\www\la-buena-leche\lib\angular-ui\ui-router\0.2.15" />
-      <recent name="C:\wamp\www\la-buena-leche\templates\pages\informacion\problemas-y-soluciones" />
     </key>
   </component>
   <component name="RunManager">
@@ -496,12 +511,12 @@
       <workItem from="1438427627361" duration="1174000" />
       <workItem from="1439024816810" duration="88000" />
       <workItem from="1439025559042" duration="7174000" />
-      <workItem from="1439112514632" duration="11455000" />
+      <workItem from="1439112514632" duration="16403000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39922000" />
+    <option name="totallyTimeSpent" value="44870000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -519,6 +534,7 @@
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18020834" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32899022" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -529,7 +545,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32899022" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -544,66 +559,12 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lib/angular-bootstrap-calendar/js/angular-bootstrap-calendar-tpls.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.45454547">
-          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/pages/actividades/calendario/templates/calendarMonthView.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2712766">
-          <caret line="9" column="72" selection-start-line="9" selection-start-column="72" selection-end-line="9" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/angular-bootstrap-calendar/css/angular-bootstrap-calendar.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.51399773">
-          <caret line="27" column="33" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/pages/actividades/calendario/templates/calendarMonthDay.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1764706">
-          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/pages/informacion/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.09042553">
-          <caret line="3" column="51" selection-start-line="3" selection-start-column="51" selection-end-line="3" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/factories/actividades/calendario-factory.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1440678">
-          <caret line="5" column="55" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/controllers/actividades/calendario/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4559322">
-          <caret line="26" column="35" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/factories/actividades/divulgativas-factory.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/controllers/material/prestamo-de-libros/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.20169492">
@@ -640,10 +601,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/angular-bootstrap-calendar/css/angular-bootstrap-calendar.min.css.map">
+    <entry file="file://$PROJECT_DIR$/lib/angular-bootstrap-calendar/0.10.6/css/angular-bootstrap-calendar.min.css.map">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="60" selection-start-line="0" selection-start-column="60" selection-end-line="0" selection-end-column="60" />
+          <folding />
         </state>
       </provider>
       <provider editor-type-id="sourcemapFileViewerProvider">
@@ -685,14 +647,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/config/config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.17133258">
-          <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.07614782">
@@ -705,14 +659,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.2956327">
           <caret line="20" column="39" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sources/json/calendario.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.29411766">
-          <caret line="258" column="33" selection-start-line="258" selection-start-column="33" selection-end-line="258" selection-end-column="33" />
           <folding />
         </state>
       </provider>
@@ -813,14 +759,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/pages/actividades/calendario/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="42" selection-start-line="0" selection-start-column="42" selection-end-line="0" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/pages/actividades/divulgativas/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.039215688">
@@ -909,14 +847,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.78431374">
-          <caret line="40" column="55" selection-start-line="40" selection-start-column="55" selection-end-line="40" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/controllers/header.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.13325869">
@@ -937,6 +867,102 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3529412">
           <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/angular-bootstrap-calendar/0.14.6/css/angular-bootstrap-calendar.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34266517">
+          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/pages/actividades/calendario/templates/calendarDayView.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/angular-bootstrap-calendar/0.10.6/js/angular-bootstrap-calendar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.05711086">
+          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/angular-bootstrap-calendar/0.14.6/js/angular-bootstrap-calendar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="100" column="36" selection-start-line="100" selection-start-column="28" selection-end-line="100" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/angular-bootstrap-calendar/0.14.6/js/angular-bootstrap-calendar-tpls.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.9675926">
+          <caret line="100" column="36" selection-start-line="100" selection-start-column="28" selection-end-line="100" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/angular-bootstrap-calendar/0.14.6/js/angular-bootstrap-calendar.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22341697">
+          <caret line="6" column="1155" selection-start-line="6" selection-start-column="1155" selection-end-line="6" selection-end-column="1155" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/angular-bootstrap-calendar/0.10.6/js/angular-bootstrap-calendar.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7562724">
+          <caret line="6" column="9929" selection-start-line="6" selection-start-column="9928" selection-end-line="6" selection-end-column="9929" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sources/json/calendario.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37350836">
+          <caret line="257" column="37" selection-start-line="257" selection-start-column="37" selection-end-line="257" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/pages/actividades/calendario/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.65384614">
+          <caret line="1" column="67" selection-start-line="1" selection-start-column="67" selection-end-line="1" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/controllers/actividades/calendario/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/config/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="58" selection-start-line="26" selection-start-column="58" selection-end-line="26" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.43137255">
+          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
           <folding />
         </state>
       </provider>
