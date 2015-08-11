@@ -8,10 +8,11 @@ XS 480
 /* Vars */
 @page-bg-color: #936;
 @page-bg-dark-color: #603;
-@header-bg-color: #fff6db;
+@header-bg-color: #fff; //#fff6db
 @footer-bg-color: #fc9;
 @page-font-color: #333;
 @page-font: "Open Sans", sans-serif;
+@title-font: "Amatic SC", "Open Sans", sans-serif;
 @white: #fff;
 
 /* Mixins */
@@ -54,8 +55,39 @@ body {
     box-shadow: inset 0 1px 1px rgba(0,0,0,.075),0 0 8px @page-bg-color;
   }
 
+  h1, h2, h3, h4, h5, h6{
+    font-family: @title-font;
+    font-weight: bold;
+  }
+
+  .img {
+    margin: 10px 0;
+  }
+
+  .desc {
+    margin-top: 25px;
+  }
+
+  .btn-lbl {
+    color: @white;
+    background-color: @page-bg-color;
+    border-color: @page-bg-dark-color;
+
+    &.active, &.focus, &:active, &:focus, &:hover {
+      color: @white;
+      background-color: @page-bg-dark-color;
+      border-color: @page-bg-color;
+    }
+  }
+
   header {
     background-color: @header-bg-color;
+
+    .logo-principal{
+      display: block;
+      margin: 10px 0;
+      text-align: center;
+    }
 
     .social {
       margin: 5px 0;
@@ -80,6 +112,8 @@ body {
       .navbar-header {
         .navbar-brand {
           color: @white;
+          font-family: @title-font;
+          font-size: 30px;
           text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.75);
 
           &:hover {
@@ -103,11 +137,17 @@ body {
       }
 
       .navbar-collapse {
+        @media(min-width: 768px) {
+          padding: 0;
+        }
+
         .nav {
           li {
             a {
               color: @white;
               cursor: pointer;
+              font-family: @title-font;
+              font-size: 20px;
 
               &.active {
                 background-color: @page-bg-dark-color;
@@ -150,7 +190,6 @@ body {
     }
   }
 
-
   footer {
     background-color: @footer-bg-color;
     font-weight: bold;
@@ -163,23 +202,6 @@ body {
 
     img {
       height: 50px;
-    }
-  }
-
-  .img {
-    margin-top: 10px;
-    margin-bottom: 10px;
-  }
-
-  .btn-lbl {
-    color: @white;
-    background-color: @page-bg-color;
-    border-color: @page-bg-dark-color;
-
-    &.active, &.focus, &:active, &:focus, &:hover {
-      color: @white;
-      background-color: @page-bg-dark-color;
-      border-color: @page-bg-color;
     }
   }
 
@@ -228,6 +250,14 @@ body {
       }
     }
 
+    #encuentros{
+      .encuentros-ul{
+        margin-top: 25px;
+      }
+    }
+  }
+
+  #material{
     #prestamo-de-libros {
       .filtros {
         > div {

@@ -18,9 +18,9 @@
 
     <div class="row">
         <div class="col-xs-12 col-md-8 col-lg-6">
-            <p><strong>Libros</strong></p>:
+            <p><strong>Libros</strong>:</p>
             <ul class="fa-ul">
-                <li ng-repeat="libro in prestamoCtrl.libros track by $index| filter:search:strict">
+                <li ng-repeat="libro in prestamoCtrl.libros | filter:search:strict">
                     <i class="fa-li fa fa-book"></i>{{libro.book.title}}
                     <span ng-if="libro.book.author">({{libro.book.author}})</span>
                 </li>
