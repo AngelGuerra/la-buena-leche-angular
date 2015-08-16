@@ -8,7 +8,8 @@ XS 480
 /* Vars */
 @page-bg-color: #936;
 @page-bg-dark-color: #603;
-@header-bg-color: #fff; //#fff6db
+@header-bg-color: #fff;
+//#fff6db
 @footer-bg-color: #fc9;
 @page-font-color: #333;
 @page-font: "Open Sans", sans-serif;
@@ -51,11 +52,11 @@ body {
   .form-control:focus {
     border-color: @page-bg-dark-color;
     outline: 0;
-    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075),0 0 8px @page-bg-color;
-    box-shadow: inset 0 1px 1px rgba(0,0,0,.075),0 0 8px @page-bg-color;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075), 0 0 8px @page-bg-color;
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075), 0 0 8px @page-bg-color;
   }
 
-  h1, h2, h3, h4, h5, h6{
+  h1, h2, h3, h4, h5, h6 {
     font-family: @title-font;
     font-weight: bold;
   }
@@ -83,7 +84,7 @@ body {
   header {
     background-color: @header-bg-color;
 
-    .logo-principal{
+    .logo-principal {
       display: block;
       margin: 10px 0;
       text-align: center;
@@ -137,7 +138,7 @@ body {
       }
 
       .navbar-collapse {
-        @media(min-width: 768px) {
+        @media (min-width: 768px) {
           padding: 0;
         }
 
@@ -250,14 +251,17 @@ body {
       }
     }
 
-    #encuentros{
-      .encuentros-ul{
+    #encuentros {
+      .encuentros-ul {
         margin-top: 25px;
+      }
+      .arrow-maps {
+        color: #EF5350;
       }
     }
   }
 
-  #material{
+  #material {
     #prestamo-de-libros {
       .filtros {
         > div {

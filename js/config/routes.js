@@ -33,7 +33,9 @@
             })
             .state('actividades.encuentros', {
                 url: '/encuentros',
-                templateUrl: 'templates/pages/actividades/encuentros/index.html'
+                templateUrl: 'templates/pages/actividades/encuentros/index.html',
+                controller: 'EncuentrosIndexController',
+                controllerAs: 'encuentrosCtrl'
             })
             .state('actividades.divulgativas', {
                 url: '/divulgativas',
@@ -102,6 +104,10 @@
             .state('material.extractores-de-leche', {
                 url: '/extractores-de-leche',
                 templateUrl: 'templates/pages/material/extractores-de-leche/index.html'
+            })
+            .state('material.material-divulgativo', {
+                url: '/material-divulgativo',
+                templateUrl: 'templates/pages/material/material-divulgativo/index.html'
             })
             .state('material.material-de-muestra', {
                 url: '/material-de-muestra',

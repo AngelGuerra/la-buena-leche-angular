@@ -17,19 +17,15 @@
     </div>
 
     <div class="row">
-        <div class="col-xs-12 col-md-8 col-lg-6">
+        <div class="col-xs-12">
             <p><strong>Libros</strong>:</p>
             <ul class="fa-ul">
-                <li ng-repeat="libro in prestamoCtrl.libros | filter:search:strict">
+                <li ng-repeat="libro in prestamoCtrl.libros | orderBy:'book.title' | filter:search:strict">
                     <i class="fa-li fa fa-book"></i>{{libro.book.title}}
                     <span ng-if="libro.book.author">({{libro.book.author}})</span>
+                    <a ng-href="{{libro.book.link.href}}" ng-if="libro.book.link.href">({{libro.book.link.text}})</a>
                 </li>
             </ul>
-        </div>
-        <div class="col-md-4 col-lg-6 visible-md visible-lg">
-            <img src="images/actividades/prestamo-libros/fotolia_40354213.jpg" alt="" class="img img-responsive center-block"/>
-            <img src="images/actividades/prestamo-libros/fotolia_71440236.jpg" alt="" class="img img-responsive center-block"/>
-            <img src="images/actividades/prestamo-libros/fotolia_66450046.jpg" alt="" class="img img-responsive center-block"/>
         </div>
     </div>
 </section>

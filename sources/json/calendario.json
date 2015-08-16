@@ -217,15 +217,6 @@
       "incrementsBadgeTotal": true
     },
     {
-      "title": "Encuentro Solares",
-      "type": "info",
-      "startsAt": "2015-07-06 17:30",
-      "endsAt": "2015-07-06 19:00",
-      "editable": false,
-      "deletable": false,
-      "incrementsBadgeTotal": true
-    },
-    {
       "title": "Encuentro Tanos",
       "type": "info",
       "startsAt": "2015-07-14 17:00",
@@ -257,15 +248,6 @@
       "type": "important",
       "startsAt": "2015-08-01 00:00",
       "endsAt": "2015-08-07 23:59",
-      "editable": false,
-      "deletable": false,
-      "incrementsBadgeTotal": true
-    },
-    {
-      "title": "Encuentro Solares",
-      "type": "info",
-      "startsAt": "2015-08-03 17:30",
-      "endsAt": "2015-08-03 19:00",
       "editable": false,
       "deletable": false,
       "incrementsBadgeTotal": true
@@ -343,6 +325,15 @@
       "incrementsBadgeTotal": true
     },
     {
+      "title": "Encuentro Castro Urdiales",
+      "type": "info",
+      "startsAt": "2015-10-07 17:00",
+      "endsAt": "2015-10-07 19:00",
+      "editable": false,
+      "deletable": false,
+      "incrementsBadgeTotal": true
+    },
+    {
       "title": "Encuentro Tanos",
       "type": "info",
       "startsAt": "2015-10-13 17:00",
@@ -379,6 +370,15 @@
       "incrementsBadgeTotal": true
     },
     {
+      "title": "Encuentro Castro Urdiales",
+      "type": "info",
+      "startsAt": "2015-11-04 17:00",
+      "endsAt": "2015-11-04 19:00",
+      "editable": false,
+      "deletable": false,
+      "incrementsBadgeTotal": true
+    },
+    {
       "title": "Encuentro Tanos",
       "type": "info",
       "startsAt": "2015-11-10 17:00",
@@ -406,6 +406,15 @@
       "incrementsBadgeTotal": true
     },
     {
+      "title": "Encuentro Castro Urdiales",
+      "type": "info",
+      "startsAt": "2015-12-02 17:00",
+      "endsAt": "2015-12-02 19:00",
+      "editable": false,
+      "deletable": false,
+      "incrementsBadgeTotal": true
+    },
+    {
       "title": "Encuentro Solares",
       "type": "info",
       "startsAt": "2015-12-07 17:30",
@@ -428,15 +437,6 @@
       "type": "info",
       "startsAt": "2015-12-15 17:00",
       "endsAt": "2015-12-15 19:00",
-      "editable": false,
-      "deletable": false,
-      "incrementsBadgeTotal": true
-    },
-    {
-      "title": "Encuentro Puente San Miguel",
-      "type": "info",
-      "startsAt": "2015-12-25 17:00",
-      "endsAt": "2015-12-25 19:00",
       "editable": false,
       "deletable": false,
       "incrementsBadgeTotal": true
