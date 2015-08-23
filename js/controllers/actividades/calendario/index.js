@@ -26,8 +26,8 @@
             .getEvents()
             .then(function(events){
                 angular.forEach(events, function(event){
-                    event.startsAt = new Date(event.startsAt);
-                    event.endsAt = new Date(event.endsAt);
+                    event.startsAt = moment(event.startsAt);
+                    event.endsAt = moment(event.endsAt);
                 });
                 vm.events = events;
             }
