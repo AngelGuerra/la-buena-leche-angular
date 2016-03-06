@@ -1,0 +1,14 @@
+<section class="book-details">
+    <div class="modal-header">
+        <h1 class="modal-title">{{bookDetails.book.title}} <small>{{bookDetails.book.author}}</small></h1>
+    </div>
+    <div class="modal-body clearfix">
+        <figure>
+            <img class="img img-rounded img-thumbnail" ng-src="{{bookDetails.book.img}}" alt="{{bookDetails.book.title}}"/>
+            <figcaption>{{bookDetails.book.desc}}</figcaption>
+        </figure>
+    </div>
+    <div class="modal-footer">
+        <button class="btn btn-lbl" ng-click="bookDetails.dismiss()">Cerrar</button>
+    </div>
+</section>

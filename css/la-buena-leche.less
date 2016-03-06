@@ -9,7 +9,6 @@ XS 480
 @page-bg-color: #936;
 @page-bg-dark-color: #603;
 @header-bg-color: #fff;
-//#fff6db
 @footer-bg-color: #fc9;
 @page-font-color: #333;
 @page-font: "Open Sans", sans-serif;
@@ -160,8 +159,8 @@ body {
               }
 
               @media (min-width: 768px) and (max-width: 991px) {
-                padding-left: 9px;
-                padding-right: 9px;
+                padding-left: 7px;
+                padding-right: 7px;
               }
             }
 
@@ -250,14 +249,14 @@ body {
         }
       }
     }
+  }
 
-    #encuentros {
-      .encuentros-ul {
-        margin-top: 25px;
-      }
-      .arrow-maps {
-        color: #EF5350;
-      }
+  #encuentros {
+    .encuentros-ul {
+      margin-top: 25px;
+    }
+    .arrow-maps {
+      color: @page-bg-color;
     }
   }
 
@@ -271,6 +270,23 @@ body {
             width: 100%;
           }
         }
+      }
+    }
+  }
+}
+
+// Para los modales que continen los detalles de un libro
+.book-details {
+  figure {
+    img {
+      @media (max-width: 767px) {
+        display: block;
+        margin: 0 auto 15px;
+      }
+
+      @media (min-width: 768px) {
+        float: left;
+        margin-right: 15px;
       }
     }
   }

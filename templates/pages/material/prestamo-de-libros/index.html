@@ -20,7 +20,7 @@
         <div class="col-xs-12">
             <p><strong>Libros</strong>:</p>
             <ul class="fa-ul">
-                <li ng-repeat="libro in prestamoCtrl.libros | orderBy:'book.title' | filter:search:strict">
+                <li ng-repeat="libro in prestamoCtrl.libros | orderBy:'book.title' | filter:search:strict" ng-click="prestamoCtrl.open(libro.book)">
                     <i class="fa-li fa fa-book"></i>{{libro.book.title}}
                     <span ng-if="libro.book.author">({{libro.book.author}})</span>
                     <a ng-href="{{libro.book.link.href}}" ng-if="libro.book.link.href">({{libro.book.link.text}})</a>

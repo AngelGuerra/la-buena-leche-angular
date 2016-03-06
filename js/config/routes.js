@@ -31,12 +31,6 @@
                 controller: 'ActividadesCalendarioIndexController',
                 controllerAs: 'calendarioCtrl'
             })
-            .state('actividades.encuentros', {
-                url: '/encuentros',
-                templateUrl: 'templates/pages/actividades/encuentros/index.html',
-                controller: 'EncuentrosIndexController',
-                controllerAs: 'encuentrosCtrl'
-            })
             .state('actividades.divulgativas', {
                 url: '/divulgativas',
                 templateUrl: 'templates/pages/actividades/divulgativas/index.html',
@@ -46,6 +40,12 @@
             .state('actividades.ludicas', {
                 url: '/ludicas',
                 templateUrl: 'templates/pages/actividades/ludicas/index.html'
+            })
+            .state('encuentros', {
+                url: '/encuentros',
+                templateUrl: 'templates/pages/encuentros/index.html',
+                controller: 'EncuentrosIndexController',
+                controllerAs: 'encuentrosCtrl'
             })
             .state('asociate', {
                 url: '/asociate',
