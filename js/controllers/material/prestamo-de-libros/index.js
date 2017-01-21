@@ -5,9 +5,9 @@
         .module('laBuenaLeche')
         .controller('PrestamoIndexController', index);
 
-    index.$inject = ['$modal', 'PrestamoFactory'];
+    index.$inject = ['$uibModal', 'PrestamoFactory'];
 
-    function index($modal, PrestamoFactory){
+    function index($uibModal, PrestamoFactory){
         var vm = this;
         vm.libros = [];
         vm.open = open;
@@ -22,7 +22,7 @@
         function open(book) {
             if (book.desc == '') return false;
 
-            var modalInstance = $modal.open({
+            var modalInstance = $uibModal.open({
                     animation: true,
                     templateUrl: 'templates/pages/material/prestamo-de-libros/_book_details.html',
                     controller: 'bookDetailsController',

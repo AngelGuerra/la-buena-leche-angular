@@ -10,8 +10,14 @@
 
         vm.intervalo = 4000;
         vm.slides = [
-            {image: 'images/quienes-somos/lg/quienes_somos_1.jpg'},
-            {image: 'images/quienes-somos/lg/quienes_somos_2.jpg'}
+            {
+                id: 0,
+                image: 'images/quienes-somos/lg/quienes_somos_1.jpg'
+            },
+            {
+                id: 1,
+                image: 'images/quienes-somos/lg/quienes_somos_2.jpg'
+            }
         ];
     }
 })();

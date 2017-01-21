@@ -1,10 +1,10 @@
 <div id="home">
     <div class="carousel-container">
-        <carousel interval="homeCtrl.intervalo">
-            <slide ng-repeat="slide in homeCtrl.slides" active="slide.active">
-                <img ng-src="{{slide.image}}" class="img-responsive">
-            </slide>
-        </carousel>
+        <div uib-carousel active="slide.active" interval="homeCtrl.intervalo">
+            <div uib-slide ng-repeat="slide in homeCtrl.slides track by slide.id" index="slide.id">
+                <img ng-src="{{slide.image}}?1485005390" class="img-responsive">
+            </div>
+        </div>
     </div>
 
     <section class="desc">

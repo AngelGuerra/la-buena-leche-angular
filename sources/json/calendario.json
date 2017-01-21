@@ -2,579 +2,483 @@
   "events": [
     {
       "title": "Encuentro Solares",
-      "type": "info",
-      "startsAt": "2016-01-04 17:30",
-      "endsAt": "2016-01-04 19:00",
-      "editable": false,
-      "deletable": false,
-      "incrementsBadgeTotal": true
-    },
-    {
-      "title": "Encuentro Castro Urdiales",
-      "type": "info",
-      "startsAt": "2016-01-06 17:30",
-      "endsAt": "2016-01-06 19:30",
-      "editable": false,
-      "deletable": false,
-      "incrementsBadgeTotal": true
-    },
-    {
-      "title": "Encuentro Tanos",
-      "type": "info",
-      "startsAt": "2016-01-12 17:00",
-      "endsAt": "2016-01-12 19:00",
-      "editable": false,
-      "deletable": false,
-      "incrementsBadgeTotal": true
-    },
-    {
-      "title": "Encuentro Santander",
-      "type": "info",
-      "startsAt": "2016-01-19 17:00",
-      "endsAt": "2016-01-19 19:00",
-      "editable": false,
-      "deletable": false,
-      "incrementsBadgeTotal": true
-    },
-    {
-      "title": "Encuentro Puente San Miguel",
-      "type": "info",
-      "startsAt": "2016-01-29 17:00",
-      "endsAt": "2016-01-29 19:00",
-      "editable": false,
-      "deletable": false,
-      "incrementsBadgeTotal": true
+      "color": "info",
+      "startsAt": "2017-01-02 17:30",
+      "endsAt": "2017-01-02 19:00",
+      "incrementsBadgeTotal": true,
+      "allDay": false
     },
     {
       "title": "Encuentro Solares",
-      "type": "info",
-      "startsAt": "2016-02-01 17:30",
-      "endsAt": "2016-02-01 19:00",
-      "editable": false,
-      "deletable": false,
-      "incrementsBadgeTotal": true
-    },
-    {
-      "title": "Encuentro Castro Urdiales",
-      "type": "info",
-      "startsAt": "2016-02-03 17:30",
-      "endsAt": "2016-02-03 19:30",
-      "editable": false,
-      "deletable": false,
-      "incrementsBadgeTotal": true
-    },
-    {
-      "title": "Encuentro Tanos",
-      "type": "info",
-      "startsAt": "2016-02-09 17:00",
-      "endsAt": "2016-02-09 19:00",
-      "editable": false,
-      "deletable": false,
-      "incrementsBadgeTotal": true
-    },
-    {
-      "title": "Encuentro Santander",
-      "type": "info",
-      "startsAt": "2016-02-16 17:00",
-      "endsAt": "2016-02-16 19:00",
-      "editable": false,
-      "deletable": false,
-      "incrementsBadgeTotal": true
-    },
-    {
-      "title": "Encuentro Puente San Miguel",
-      "type": "info",
-      "startsAt": "2016-02-26 17:00",
-      "endsAt": "2016-02-26 19:00",
-      "editable": false,
-      "deletable": false,
-      "incrementsBadgeTotal": true
+      "color": "info",
+      "startsAt": "2017-02-06 17:30",
+      "endsAt": "2017-02-06 19:00",
+      "incrementsBadgeTotal": true,
+      "allDay": false
     },
     {
       "title": "Encuentro Solares",
-      "type": "info",
-      "startsAt": "2016-03-07 17:30",
-      "endsAt": "2016-03-07 19:00",
-      "editable": false,
-      "deletable": false,
-      "incrementsBadgeTotal": true
-    },
-    {
-      "title": "Encuentro Castro Urdiales",
-      "type": "info",
-      "startsAt": "2016-03-02 17:30",
-      "endsAt": "2016-03-02 19:30",
-      "editable": false,
-      "deletable": false,
-      "incrementsBadgeTotal": true
-    },
-    {
-      "title": "Encuentro Tanos",
-      "type": "info",
-      "startsAt": "2016-03-08 17:00",
-      "endsAt": "2016-03-08 19:00",
-      "editable": false,
-      "deletable": false,
-      "incrementsBadgeTotal": true
-    },
-    {
-      "title": "Encuentro Santander",
-      "type": "info",
-      "startsAt": "2016-03-15 17:00",
-      "endsAt": "2016-03-15 19:00",
-      "editable": false,
-      "deletable": false,
-      "incrementsBadgeTotal": true
-    },
-    {
-      "title": "Encuentro Puente San Miguel",
-      "type": "info",
-      "startsAt": "2016-03-25 17:00",
-      "endsAt": "2016-03-25 19:00",
-      "editable": false,
-      "deletable": false,
-      "incrementsBadgeTotal": true
+      "color": "info",
+      "startsAt": "2017-03-06 17:30",
+      "endsAt": "2017-03-06 19:00",
+      "incrementsBadgeTotal": true,
+      "allDay": false
     },
     {
       "title": "Encuentro Solares",
-      "type": "info",
-      "startsAt": "2016-04-04 17:30",
-      "endsAt": "2016-04-04 19:00",
-      "editable": false,
-      "deletable": false,
-      "incrementsBadgeTotal": true
-    },
-    {
-      "title": "Encuentro Castro Urdiales",
-      "type": "info",
-      "startsAt": "2016-04-06 17:30",
-      "endsAt": "2016-04-06 19:30",
-      "editable": false,
-      "deletable": false,
-      "incrementsBadgeTotal": true
-    },
-    {
-      "title": "Encuentro Tanos",
-      "type": "info",
-      "startsAt": "2016-04-12 17:00",
-      "endsAt": "2016-04-12 19:00",
-      "editable": false,
-      "deletable": false,
-      "incrementsBadgeTotal": true
-    },
-    {
-      "title": "Encuentro Santander",
-      "type": "info",
-      "startsAt": "2016-04-19 17:00",
-      "endsAt": "2016-04-19 19:00",
-      "editable": false,
-      "deletable": false,
-      "incrementsBadgeTotal": true
-    },
-    {
-      "title": "Encuentro Puente San Miguel",
-      "type": "info",
-      "startsAt": "2016-04-29 17:00",
-      "endsAt": "2016-04-29 19:00",
-      "editable": false,
-      "deletable": false,
-      "incrementsBadgeTotal": true
+      "color": "info",
+      "startsAt": "2017-04-03 17:30",
+      "endsAt": "2017-04-03 19:00",
+      "incrementsBadgeTotal": true,
+      "allDay": false
     },
     {
       "title": "Encuentro Solares",
-      "type": "info",
-      "startsAt": "2016-05-02 17:30",
-      "endsAt": "2016-05-02 19:00",
-      "editable": false,
-      "deletable": false,
-      "incrementsBadgeTotal": true
-    },
-    {
-      "title": "Encuentro Castro Urdiales",
-      "type": "info",
-      "startsAt": "2016-05-04 17:30",
-      "endsAt": "2016-05-04 19:30",
-      "editable": false,
-      "deletable": false,
-      "incrementsBadgeTotal": true
-    },
-    {
-      "title": "Encuentro Tanos",
-      "type": "info",
-      "startsAt": "2016-05-10 17:00",
-      "endsAt": "2016-05-10 19:00",
-      "editable": false,
-      "deletable": false,
-      "incrementsBadgeTotal": true
-    },
-    {
-      "title": "Encuentro Santander",
-      "type": "info",
-      "startsAt": "2016-05-17 17:00",
-      "endsAt": "2016-05-17 19:00",
-      "editable": false,
-      "deletable": false,
-      "incrementsBadgeTotal": true
-    },
-    {
-      "title": "Encuentro Puente San Miguel",
-      "type": "info",
-      "startsAt": "2016-05-27 17:00",
-      "endsAt": "2016-05-27 19:00",
-      "editable": false,
-      "deletable": false,
-      "incrementsBadgeTotal": true
+      "color": "info",
+      "startsAt": "2017-05-08 17:30",
+      "endsAt": "2017-05-08 19:00",
+      "incrementsBadgeTotal": true,
+      "allDay": false
     },
     {
       "title": "Encuentro Solares",
-      "type": "info",
-      "startsAt": "2016-06-06 17:30",
-      "endsAt": "2016-06-06 19:00",
-      "editable": false,
-      "deletable": false,
-      "incrementsBadgeTotal": true
-    },
-    {
-      "title": "Encuentro Castro Urdiales",
-      "type": "info",
-      "startsAt": "2016-06-01 17:30",
-      "endsAt": "2016-06-01 19:30",
-      "editable": false,
-      "deletable": false,
-      "incrementsBadgeTotal": true
-    },
-    {
-      "title": "Encuentro Tanos",
-      "type": "info",
-      "startsAt": "2016-06-14 17:00",
-      "endsAt": "2016-06-14 19:00",
-      "editable": false,
-      "deletable": false,
-      "incrementsBadgeTotal": true
-    },
-    {
-      "title": "Encuentro Santander",
-      "type": "info",
-      "startsAt": "2016-06-21 17:00",
-      "endsAt": "2016-06-21 19:00",
-      "editable": false,
-      "deletable": false,
-      "incrementsBadgeTotal": true
-    },
-    {
-      "title": "Encuentro Puente San Miguel",
-      "type": "info",
-      "startsAt": "2016-06-24 17:00",
-      "endsAt": "2016-06-24 19:00",
-      "editable": false,
-      "deletable": false,
-      "incrementsBadgeTotal": true
+      "color": "info",
+      "startsAt": "2017-06-05 17:30",
+      "endsAt": "2017-06-05 19:00",
+      "incrementsBadgeTotal": true,
+      "allDay": false
     },
     {
       "title": "Encuentro Solares",
-      "type": "info",
-      "startsAt": "2016-07-04 17:30",
-      "endsAt": "2016-07-04 19:00",
-      "editable": false,
-      "deletable": false,
-      "incrementsBadgeTotal": true
-    },
-    {
-      "title": "Encuentro Castro Urdiales",
-      "type": "info",
-      "startsAt": "2016-07-06 17:30",
-      "endsAt": "2016-07-06 19:30",
-      "editable": false,
-      "deletable": false,
-      "incrementsBadgeTotal": true
-    },
-    {
-      "title": "Encuentro Tanos",
-      "type": "info",
-      "startsAt": "2016-07-12 17:00",
-      "endsAt": "2016-07-12 19:00",
-      "editable": false,
-      "deletable": false,
-      "incrementsBadgeTotal": true
-    },
-    {
-      "title": "Encuentro Santander",
-      "type": "info",
-      "startsAt": "2016-07-19 17:00",
-      "endsAt": "2016-07-19 19:00",
-      "editable": false,
-      "deletable": false,
-      "incrementsBadgeTotal": true
-    },
-    {
-      "title": "Encuentro Puente San Miguel",
-      "type": "info",
-      "startsAt": "2016-07-29 17:00",
-      "endsAt": "2016-07-29 19:00",
-      "editable": false,
-      "deletable": false,
-      "incrementsBadgeTotal": true
+      "color": "info",
+      "startsAt": "2017-07-03 17:30",
+      "endsAt": "2017-07-03 19:00",
+      "incrementsBadgeTotal": true,
+      "allDay": false
     },
     {
       "title": "Encuentro Solares",
-      "type": "info",
-      "startsAt": "2016-08-01 17:30",
-      "endsAt": "2016-08-01 19:00",
-      "editable": false,
-      "deletable": false,
-      "incrementsBadgeTotal": true
-    },
-    {
-      "title": "Encuentro Castro Urdiales",
-      "type": "info",
-      "startsAt": "2016-08-03 17:30",
-      "endsAt": "2016-08-03 19:30",
-      "editable": false,
-      "deletable": false,
-      "incrementsBadgeTotal": true
-    },
-    {
-      "title": "Encuentro Tanos",
-      "type": "info",
-      "startsAt": "2016-08-09 17:00",
-      "endsAt": "2016-08-09 19:00",
-      "editable": false,
-      "deletable": false,
-      "incrementsBadgeTotal": true
-    },
-    {
-      "title": "Encuentro Santander",
-      "type": "info",
-      "startsAt": "2016-08-16 17:00",
-      "endsAt": "2016-08-16 19:00",
-      "editable": false,
-      "deletable": false,
-      "incrementsBadgeTotal": true
-    },
-    {
-      "title": "Encuentro Puente San Miguel",
-      "type": "info",
-      "startsAt": "2016-08-26 17:00",
-      "endsAt": "2016-08-26 19:00",
-      "editable": false,
-      "deletable": false,
-      "incrementsBadgeTotal": true
+      "color": "info",
+      "startsAt": "2017-08-07 17:30",
+      "endsAt": "2017-08-07 19:00",
+      "incrementsBadgeTotal": true,
+      "allDay": false
     },
     {
       "title": "Encuentro Solares",
-      "type": "info",
-      "startsAt": "2016-09-05 17:30",
-      "endsAt": "2016-09-05 19:00",
-      "editable": false,
-      "deletable": false,
-      "incrementsBadgeTotal": true
-    },
-    {
-      "title": "Encuentro Castro Urdiales",
-      "type": "info",
-      "startsAt": "2016-09-07 17:30",
-      "endsAt": "2016-09-07 19:30",
-      "editable": false,
-      "deletable": false,
-      "incrementsBadgeTotal": true
-    },
-    {
-      "title": "Encuentro Tanos",
-      "type": "info",
-      "startsAt": "2016-09-13 17:00",
-      "endsAt": "2016-09-13 19:00",
-      "editable": false,
-      "deletable": false,
-      "incrementsBadgeTotal": true
-    },
-    {
-      "title": "Encuentro Santander",
-      "type": "info",
-      "startsAt": "2016-09-20 17:00",
-      "endsAt": "2016-09-20 19:00",
-      "editable": false,
-      "deletable": false,
-      "incrementsBadgeTotal": true
-    },
-    {
-      "title": "Encuentro Puente San Miguel",
-      "type": "info",
-      "startsAt": "2016-09-30 17:00",
-      "endsAt": "2016-09-30 19:00",
-      "editable": false,
-      "deletable": false,
-      "incrementsBadgeTotal": true
-    },
-    {
-      "title": "SMLM: Mesa informativa y 'Animación de danzas' - Plaza Pombo, Santander",
-      "type": "important",
-      "startsAt": "2016-10-02 12:00",
-      "endsAt": "2016-10-02 14:00",
-      "editable": false,
-      "deletable": false,
-      "incrementsBadgeTotal": true
-    },
-    {
-      "title": "SMLM: Charla 'Lactancia Materna: Más allá del instinto' - Centro Cultural La Residencia, Castro Urdiales",
-      "type": "important",
-      "startsAt": "2016-10-06 17:30",
-      "endsAt": "2016-10-06 19:30",
-      "editable": false,
-      "deletable": false,
-      "incrementsBadgeTotal": true
-    },
-    {
-      "title": "SMLM: Charla 'El reto de la maternidad y la lactancia hoy en día' - Café de las Artes, Santander",
-      "type": "important",
-      "startsAt": "2016-10-08 11:00",
-      "endsAt": "2016-10-08 12:50",
-      "editable": false,
-      "deletable": false,
-      "incrementsBadgeTotal": true
-    },
-    {
-      "title": "SMLM: Proyección del documental LOBA - Centro Cultural La Residencia, Castro Urdiales",
-      "type": "important",
-      "startsAt": "2016-10-09 11:00",
-      "endsAt": "2016-10-09 11:00",
-      "editable": false,
-      "deletable": false,
-      "incrementsBadgeTotal": true
+      "color": "info",
+      "startsAt": "2017-09-04 17:30",
+      "endsAt": "2017-09-04 19:00",
+      "incrementsBadgeTotal": true,
+      "allDay": false
     },
     {
       "title": "Encuentro Solares",
-      "type": "info",
-      "startsAt": "2016-10-03 17:30",
-      "endsAt": "2016-10-03 19:00",
-      "editable": false,
-      "deletable": false,
-      "incrementsBadgeTotal": true
-    },
-    {
-      "title": "Encuentro Castro Urdiales",
-      "type": "info",
-      "startsAt": "2016-10-05 17:30",
-      "endsAt": "2016-10-05 19:30",
-      "editable": false,
-      "deletable": false,
-      "incrementsBadgeTotal": true
-    },
-    {
-      "title": "Encuentro Tanos",
-      "type": "info",
-      "startsAt": "2016-10-11 17:00",
-      "endsAt": "2016-10-11 19:00",
-      "editable": false,
-      "deletable": false,
-      "incrementsBadgeTotal": true
-    },
-    {
-      "title": "Encuentro Santander",
-      "type": "info",
-      "startsAt": "2016-10-18 17:00",
-      "endsAt": "2016-10-18 19:00",
-      "editable": false,
-      "deletable": false,
-      "incrementsBadgeTotal": true
-    },
-    {
-      "title": "Encuentro Puente San Miguel",
-      "type": "info",
-      "startsAt": "2016-10-28 17:00",
-      "endsAt": "2016-10-28 19:00",
-      "editable": false,
-      "deletable": false,
-      "incrementsBadgeTotal": true
+      "color": "info",
+      "startsAt": "2017-10-02 17:30",
+      "endsAt": "2017-10-02 19:00",
+      "incrementsBadgeTotal": true,
+      "allDay": false
     },
     {
       "title": "Encuentro Solares",
-      "type": "info",
-      "startsAt": "2016-11-07 17:30",
-      "endsAt": "2016-11-07 19:00",
-      "editable": false,
-      "deletable": false,
-      "incrementsBadgeTotal": true
-    },
-    {
-      "title": "Encuentro Castro Urdiales",
-      "type": "info",
-      "startsAt": "2016-11-02 17:30",
-      "endsAt": "2016-11-02 19:30",
-      "editable": false,
-      "deletable": false,
-      "incrementsBadgeTotal": true
-    },
-    {
-      "title": "Encuentro Tanos",
-      "type": "info",
-      "startsAt": "2016-11-08 17:00",
-      "endsAt": "2016-11-08 19:00",
-      "editable": false,
-      "deletable": false,
-      "incrementsBadgeTotal": true
-    },
-    {
-      "title": "Encuentro Santander",
-      "type": "info",
-      "startsAt": "2016-11-15 17:00",
-      "endsAt": "2016-11-15 19:00",
-      "editable": false,
-      "deletable": false,
-      "incrementsBadgeTotal": true
-    },
-    {
-      "title": "Encuentro Puente San Miguel",
-      "type": "info",
-      "startsAt": "2016-11-25 17:00",
-      "endsAt": "2016-11-25 19:00",
-      "editable": false,
-      "deletable": false,
-      "incrementsBadgeTotal": true
+      "color": "info",
+      "startsAt": "2017-11-06 17:30",
+      "endsAt": "2017-11-06 19:00",
+      "incrementsBadgeTotal": true,
+      "allDay": false
     },
     {
       "title": "Encuentro Solares",
-      "type": "info",
-      "startsAt": "2016-12-05 17:30",
-      "endsAt": "2016-12-05 19:00",
-      "editable": false,
-      "deletable": false,
-      "incrementsBadgeTotal": true
+      "color": "info",
+      "startsAt": "2017-12-04 17:30",
+      "endsAt": "2017-12-04 19:00",
+      "incrementsBadgeTotal": true,
+      "allDay": false
     },
     {
       "title": "Encuentro Castro Urdiales",
-      "type": "info",
-      "startsAt": "2016-12-07 17:30",
-      "endsAt": "2016-12-07 19:30",
-      "editable": false,
-      "deletable": false,
-      "incrementsBadgeTotal": true
+      "color": "info",
+      "startsAt": "2017-01-04 17:30",
+      "endsAt": "2017-01-04 19:30",
+      "incrementsBadgeTotal": true,
+      "allDay": false
+    },
+    {
+      "title": "Encuentro Castro Urdiales",
+      "color": "info",
+      "startsAt": "2017-02-01 17:30",
+      "endsAt": "2017-02-01 19:30",
+      "incrementsBadgeTotal": true,
+      "allDay": false
+    },
+    {
+      "title": "Encuentro Castro Urdiales",
+      "color": "info",
+      "startsAt": "2017-03-01 17:30",
+      "endsAt": "2017-03-01 19:30",
+      "incrementsBadgeTotal": true,
+      "allDay": false
+    },
+    {
+      "title": "Encuentro Castro Urdiales",
+      "color": "info",
+      "startsAt": "2017-04-05 17:30",
+      "endsAt": "2017-04-05 19:30",
+      "incrementsBadgeTotal": true,
+      "allDay": false
+    },
+    {
+      "title": "Encuentro Castro Urdiales",
+      "color": "info",
+      "startsAt": "2017-05-03 17:30",
+      "endsAt": "2017-05-03 19:30",
+      "incrementsBadgeTotal": true,
+      "allDay": false
+    },
+    {
+      "title": "Encuentro Castro Urdiales",
+      "color": "info",
+      "startsAt": "2017-06-07 17:30",
+      "endsAt": "2017-06-07 19:30",
+      "incrementsBadgeTotal": true,
+      "allDay": false
+    },
+    {
+      "title": "Encuentro Castro Urdiales",
+      "color": "info",
+      "startsAt": "2017-07-05 17:30",
+      "endsAt": "2017-07-05 19:30",
+      "incrementsBadgeTotal": true,
+      "allDay": false
+    },
+    {
+      "title": "Encuentro Castro Urdiales",
+      "color": "info",
+      "startsAt": "2017-08-02 17:30",
+      "endsAt": "2017-08-02 19:30",
+      "incrementsBadgeTotal": true,
+      "allDay": false
+    },
+    {
+      "title": "Encuentro Castro Urdiales",
+      "color": "info",
+      "startsAt": "2017-09-06 17:30",
+      "endsAt": "2017-09-06 19:30",
+      "incrementsBadgeTotal": true,
+      "allDay": false
+    },
+    {
+      "title": "Encuentro Castro Urdiales",
+      "color": "info",
+      "startsAt": "2017-10-04 17:30",
+      "endsAt": "2017-10-04 19:30",
+      "incrementsBadgeTotal": true,
+      "allDay": false
+    },
+    {
+      "title": "Encuentro Castro Urdiales",
+      "color": "info",
+      "startsAt": "2017-11-08 17:30",
+      "endsAt": "2017-11-08 19:30",
+      "incrementsBadgeTotal": true,
+      "allDay": false
+    },
+    {
+      "title": "Encuentro Castro Urdiales",
+      "color": "info",
+      "startsAt": "2017-12-13 17:30",
+      "endsAt": "2017-12-13 19:30",
+      "incrementsBadgeTotal": true,
+      "allDay": false
     },
     {
       "title": "Encuentro Tanos",
-      "type": "info",
-      "startsAt": "2016-12-13 17:00",
-      "endsAt": "2016-12-13 19:00",
-      "editable": false,
-      "deletable": false,
-      "incrementsBadgeTotal": true
+      "color": "info",
+      "startsAt": "2017-01-10 17:00",
+      "endsAt": "2017-01-10 19:00",
+      "incrementsBadgeTotal": true,
+      "allDay": false
+    },
+    {
+      "title": "Encuentro Tanos",
+      "color": "info",
+      "startsAt": "2017-02-14 17:00",
+      "endsAt": "2017-02-14 19:00",
+      "incrementsBadgeTotal": true,
+      "allDay": false
+    },
+    {
+      "title": "Encuentro Tanos",
+      "color": "info",
+      "startsAt": "2017-03-14 17:00",
+      "endsAt": "2017-03-14 19:00",
+      "incrementsBadgeTotal": true,
+      "allDay": false
+    },
+    {
+      "title": "Encuentro Tanos",
+      "color": "info",
+      "startsAt": "2017-04-11 17:00",
+      "endsAt": "2017-04-11 19:00",
+      "incrementsBadgeTotal": true,
+      "allDay": false
+    },
+    {
+      "title": "Encuentro Tanos",
+      "color": "info",
+      "startsAt": "2017-05-09 17:00",
+      "endsAt": "2017-05-09 19:00",
+      "incrementsBadgeTotal": true,
+      "allDay": false
+    },
+    {
+      "title": "Encuentro Tanos",
+      "color": "info",
+      "startsAt": "2017-06-13 17:00",
+      "endsAt": "2017-06-13 19:00",
+      "incrementsBadgeTotal": true,
+      "allDay": false
+    },
+    {
+      "title": "Encuentro Tanos",
+      "color": "info",
+      "startsAt": "2017-07-11 17:00",
+      "endsAt": "2017-07-11 19:00",
+      "incrementsBadgeTotal": true,
+      "allDay": false
+    },
+    {
+      "title": "Encuentro Tanos",
+      "color": "info",
+      "startsAt": "2017-08-08 17:00",
+      "endsAt": "2017-08-08 19:00",
+      "incrementsBadgeTotal": true,
+      "allDay": false
+    },
+    {
+      "title": "Encuentro Tanos",
+      "color": "info",
+      "startsAt": "2017-09-12 17:00",
+      "endsAt": "2017-09-12 19:00",
+      "incrementsBadgeTotal": true,
+      "allDay": false
+    },
+    {
+      "title": "Encuentro Tanos",
+      "color": "info",
+      "startsAt": "2017-10-10 17:00",
+      "endsAt": "2017-10-10 19:00",
+      "incrementsBadgeTotal": true,
+      "allDay": false
+    },
+    {
+      "title": "Encuentro Tanos",
+      "color": "info",
+      "startsAt": "2017-11-14 17:00",
+      "endsAt": "2017-11-14 19:00",
+      "incrementsBadgeTotal": true,
+      "allDay": false
+    },
+    {
+      "title": "Encuentro Tanos",
+      "color": "info",
+      "startsAt": "2017-12-12 17:00",
+      "endsAt": "2017-12-12 19:00",
+      "incrementsBadgeTotal": true,
+      "allDay": false
     },
     {
       "title": "Encuentro Santander",
-      "type": "info",
-      "startsAt": "2016-12-20 17:00",
-      "endsAt": "2016-12-20 19:00",
-      "editable": false,
-      "deletable": false,
-      "incrementsBadgeTotal": true
+      "color": "info",
+      "startsAt": "2017-01-17 17:00",
+      "endsAt": "2017-01-17 19:00",
+      "incrementsBadgeTotal": true,
+      "allDay": false
+    },
+    {
+      "title": "Encuentro Santander",
+      "color": "info",
+      "startsAt": "2017-02-21 17:00",
+      "endsAt": "2017-02-21 19:00",
+      "incrementsBadgeTotal": true,
+      "allDay": false
+    },
+    {
+      "title": "Encuentro Santander",
+      "color": "info",
+      "startsAt": "2017-03-21 17:00",
+      "endsAt": "2017-03-21 19:00",
+      "incrementsBadgeTotal": true,
+      "allDay": false
+    },
+    {
+      "title": "Encuentro Santander",
+      "color": "info",
+      "startsAt": "2017-04-18 17:00",
+      "endsAt": "2017-04-18 19:00",
+      "incrementsBadgeTotal": true,
+      "allDay": false
+    },
+    {
+      "title": "Encuentro Santander",
+      "color": "info",
+      "startsAt": "2017-05-16 17:00",
+      "endsAt": "2017-05-16 19:00",
+      "incrementsBadgeTotal": true,
+      "allDay": false
+    },
+    {
+      "title": "Encuentro Santander",
+      "color": "info",
+      "startsAt": "2017-06-20 17:00",
+      "endsAt": "2017-06-20 19:00",
+      "incrementsBadgeTotal": true,
+      "allDay": false
+    },
+    {
+      "title": "Encuentro Santander",
+      "color": "info",
+      "startsAt": "2017-07-18 17:00",
+      "endsAt": "2017-07-18 19:00",
+      "incrementsBadgeTotal": true,
+      "allDay": false
+    },
+    {
+      "title": "Encuentro Santander",
+      "color": "info",
+      "startsAt": "2017-08-15 17:00",
+      "endsAt": "2017-08-15 19:00",
+      "incrementsBadgeTotal": true,
+      "allDay": false
+    },
+    {
+      "title": "Encuentro Santander",
+      "color": "info",
+      "startsAt": "2017-09-19 17:00",
+      "endsAt": "2017-09-19 19:00",
+      "incrementsBadgeTotal": true,
+      "allDay": false
+    },
+    {
+      "title": "Encuentro Santander",
+      "color": "info",
+      "startsAt": "2017-10-17 17:00",
+      "endsAt": "2017-10-17 19:00",
+      "incrementsBadgeTotal": true,
+      "allDay": false
+    },
+    {
+      "title": "Encuentro Santander",
+      "color": "info",
+      "startsAt": "2017-11-21 17:00",
+      "endsAt": "2017-11-21 19:00",
+      "incrementsBadgeTotal": true,
+      "allDay": false
+    },
+    {
+      "title": "Encuentro Santander",
+      "color": "info",
+      "startsAt": "2017-12-19 17:00",
+      "endsAt": "2017-12-19 19:00",
+      "incrementsBadgeTotal": true,
+      "allDay": false
     },
     {
       "title": "Encuentro Puente San Miguel",
-      "type": "info",
-      "startsAt": "2016-12-30 17:00",
-      "endsAt": "2016-12-30 19:00",
-      "editable": false,
-      "deletable": false,
-      "incrementsBadgeTotal": true
+      "color": "info",
+      "startsAt": "2017-01-27 17:00",
+      "endsAt": "2017-01-27 19:00",
+      "incrementsBadgeTotal": true,
+      "allDay": false
+    },
+    {
+      "title": "Encuentro Puente San Miguel",
+      "color": "info",
+      "startsAt": "2017-02-24 17:00",
+      "endsAt": "2017-02-24 19:00",
+      "incrementsBadgeTotal": true,
+      "allDay": false
+    },
+    {
+      "title": "Encuentro Puente San Miguel",
+      "color": "info",
+      "startsAt": "2017-03-31 17:00",
+      "endsAt": "2017-03-31 19:00",
+      "incrementsBadgeTotal": true,
+      "allDay": false
+    },
+    {
+      "title": "Encuentro Puente San Miguel",
+      "color": "info",
+      "startsAt": "2017-04-28 17:00",
+      "endsAt": "2017-04-28 19:00",
+      "incrementsBadgeTotal": true,
+      "allDay": false
+    },
+    {
+      "title": "Encuentro Puente San Miguel",
+      "color": "info",
+      "startsAt": "2017-05-26 17:00",
+      "endsAt": "2017-05-26 19:00",
+      "incrementsBadgeTotal": true,
+      "allDay": false
+    },
+    {
+      "title": "Encuentro Puente San Miguel",
+      "color": "info",
+      "startsAt": "2017-06-30 17:00",
+      "endsAt": "2017-06-30 19:00",
+      "incrementsBadgeTotal": true,
+      "allDay": false
+    },
+    {
+      "title": "Encuentro Puente San Miguel",
+      "color": "info",
+      "startsAt": "2017-07-28 17:00",
+      "endsAt": "2017-07-28 19:00",
+      "incrementsBadgeTotal": true,
+      "allDay": false
+    },
+    {
+      "title": "Encuentro Puente San Miguel",
+      "color": "info",
+      "startsAt": "2017-08-25 17:00",
+      "endsAt": "2017-08-25 19:00",
+      "incrementsBadgeTotal": true,
+      "allDay": false
+    },
+    {
+      "title": "Encuentro Puente San Miguel",
+      "color": "info",
+      "startsAt": "2017-09-29 17:00",
+      "endsAt": "2017-09-29 19:00",
+      "incrementsBadgeTotal": true,
+      "allDay": false
+    },
+    {
+      "title": "Encuentro Puente San Miguel",
+      "color": "info",
+      "startsAt": "2017-10-27 17:00",
+      "endsAt": "2017-10-27 19:00",
+      "incrementsBadgeTotal": true,
+      "allDay": false
+    },
+    {
+      "title": "Encuentro Puente San Miguel",
+      "color": "info",
+      "startsAt": "2017-11-24 17:00",
+      "endsAt": "2017-11-24 19:00",
+      "incrementsBadgeTotal": true,
+      "allDay": false
+    },
+    {
+      "title": "Encuentro Puente San Miguel",
+      "color": "info",
+      "startsAt": "2017-12-29 17:00",
+      "endsAt": "2017-12-29 19:00",
+      "incrementsBadgeTotal": true,
+      "allDay": false
     }
   ]
 }

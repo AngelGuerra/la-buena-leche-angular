@@ -1,0 +1,3 @@
+RewriteEngine on
+RewriteCond %{REQUEST_URI} !/mantenimiento.html$
+RewriteRule (.*) /mantenimiento.html [R=301,L]

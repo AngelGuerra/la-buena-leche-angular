@@ -5,43 +5,40 @@
         .module('laBuenaLeche')
         .controller('ActividadesCalendarioIndexController', index);
 
-    index.$inject = ['$window', 'CalendarioFactory', 'moment'];
+    index.$inject = ['calendarConfig', 'CalendarioFactory', 'moment'];
 
-    function index($window, CalendarioFactory, moment){
+    function index(calendarConfig, CalendarioFactory, moment) {
         var vm = this;
 
         vm.calendarDay = new Date(); //Fecha actual
         vm.calendarView = 'month'; //Vista
         vm.events = []; //Eventos
-        vm.viewTime = viewTime;
 
-        moment.locale('es', {
-            week : {
-                dow : 1 // Para que lunes sea el primer día de la semana
+        moment.updateLocale('es', {
+            week: {
+                dow: 1 // Para que lunes sea el primer dÃ­a de la semana
             }
         });
 
         //Relleno los eventos
         CalendarioFactory
             .getEvents()
-            .then(function(events){
-                angular.forEach(events, function(event){
-                    event.startsAt = moment(event.startsAt);
-                    event.endsAt = moment(event.endsAt);
-                });
-                vm.events = events;
-            }
-        );
+            .then(function (events) {
+                    angular.forEach(events, function (event) {
+                        event.startsAt = new Date(event.startsAt);
+                        event.endsAt = new Date(event.endsAt);
+                        event.color = calendarConfig.colorTypes[event.color]
+                    });
+                    vm.events = events;
+                }
+            );
 
-        /*
-         Solo dejo que se vea la vista de horas si está en vista xs, no hago más comprobaciones
-         porque si es un ordenador, que redimensione la ventana
-         */
-        function viewTime(){
-            //Si es menor que el punto de ruptura xs...
-            if($window.innerWidth < 768) return false;
-        }
-
+        //important
+        //info
+        //inverse
+        //special
+        //success
+        //warning
         //$scope.events = [
         //    {
         //        title: 'My event title', // The title of the event

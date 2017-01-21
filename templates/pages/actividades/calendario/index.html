@@ -22,9 +22,9 @@
             </div>
 
             <div class="btn-group calendar-view-controls">
-                <button class="btn btn-lbl" ng-model="calendarioCtrl.calendarView" btn-radio="'year'">Año</button>
-                <button class="btn btn-lbl active" ng-model="calendarioCtrl.calendarView" btn-radio="'month'">Mes
-                </button>
+                <button class="btn btn-lbl" ng-model="calendarioCtrl.calendarView" uib-btn-radio="'year'">Año</button>
+                <button class="btn btn-lbl active" ng-model="calendarioCtrl.calendarView" uib-btn-radio="'month'">Mes</button>
+                <button class="btn btn-lbl" ng-model="calendarioCtrl.calendarView" uib-btn-radio="'week'">Semana</button>
             </div>
         </div>
 
@@ -32,10 +32,9 @@
                 events="calendarioCtrl.events"
                 view="calendarioCtrl.calendarView"
                 view-title="calendarioCtrl.calendarTitle"
-                current-day="calendarioCtrl.calendarDay"
+                view-date="calendarioCtrl.calendarDay"
                 day-view-start="08:00"
-                day-view-end="23:00"
-                on-drill-down-click="calendarioCtrl.viewTime();">
+                day-view-end="23:00">
         </mwl-calendar>
     </section>
 </section>

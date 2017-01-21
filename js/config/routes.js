@@ -5,17 +5,18 @@
         .module('laBuenaLeche')
         .config(routes);
 
-    routes.$inject = ['$stateProvider', '$urlRouterProvider'];
+    routes.$inject = ['$locationProvider', '$stateProvider', '$urlRouterProvider'];
 
-    function routes($stateProvider, $urlRouterProvider){
+    function routes($locationProvider, $stateProvider, $urlRouterProvider){
+        $locationProvider.html5Mode(true);
 
         // For any unmatched url, redirect to /state1
-        $urlRouterProvider.otherwise("/home");
+        $urlRouterProvider.otherwise("/");
         //
         // Now set up the states
         $stateProvider
             .state('home', {
-                url: '/home',
+                url: '/',
                 templateUrl: 'templates/pages/index.html',
                 controller: 'IndexController',
                 controllerAs: 'homeCtrl'
