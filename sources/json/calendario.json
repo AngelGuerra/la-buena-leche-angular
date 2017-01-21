@@ -406,6 +406,42 @@
       "incrementsBadgeTotal": true
     },
     {
+      "title": "SMLM: Mesa informativa y 'Animación de danzas' - Plaza Pombo, Santander",
+      "type": "important",
+      "startsAt": "2016-10-02 12:00",
+      "endsAt": "2016-10-02 14:00",
+      "editable": false,
+      "deletable": false,
+      "incrementsBadgeTotal": true
+    },
+    {
+      "title": "SMLM: Charla 'Lactancia Materna: Más allá del instinto' - Centro Cultural La Residencia, Castro Urdiales",
+      "type": "important",
+      "startsAt": "2016-10-06 17:30",
+      "endsAt": "2016-10-06 19:30",
+      "editable": false,
+      "deletable": false,
+      "incrementsBadgeTotal": true
+    },
+    {
+      "title": "SMLM: Charla 'El reto de la maternidad y la lactancia hoy en día' - Café de las Artes, Santander",
+      "type": "important",
+      "startsAt": "2016-10-08 11:00",
+      "endsAt": "2016-10-08 12:50",
+      "editable": false,
+      "deletable": false,
+      "incrementsBadgeTotal": true
+    },
+    {
+      "title": "SMLM: Proyección del documental LOBA - Centro Cultural La Residencia, Castro Urdiales",
+      "type": "important",
+      "startsAt": "2016-10-09 11:00",
+      "endsAt": "2016-10-09 11:00",
+      "editable": false,
+      "deletable": false,
+      "incrementsBadgeTotal": true
+    },
+    {
       "title": "Encuentro Solares",
       "type": "info",
       "startsAt": "2016-10-03 17:30",

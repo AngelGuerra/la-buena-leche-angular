@@ -41,6 +41,10 @@
                 url: '/ludicas',
                 templateUrl: 'templates/pages/actividades/ludicas/index.html'
             })
+            .state('actividades.semana-mundial', {
+                url: '/semana-mundial-lactancia-materna',
+                templateUrl: 'templates/pages/actividades/semana-mundial/index.html'
+            })
             .state('encuentros', {
                 url: '/encuentros',
                 templateUrl: 'templates/pages/encuentros/index.html',

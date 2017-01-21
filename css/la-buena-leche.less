@@ -162,6 +162,10 @@ body {
                 padding-left: 7px;
                 padding-right: 7px;
               }
+
+              &.actividades {
+                color: @footer-bg-color;
+              }
             }
 
             ul.dropdown-menu {
@@ -171,6 +175,10 @@ body {
                 a {
                   padding-top: 5px;
                   padding-bottom: 5px;
+
+                  &.semana-mundial {
+                    color: @footer-bg-color;
+                  }
                 }
               }
             }
@@ -246,6 +254,23 @@ body {
           @media (max-width: 480px) {
             float: none;
           }
+        }
+      }
+    }
+
+    #semana-mundial {
+      img {
+        margin: 0 auto;
+        @media (min-width: 768px) {
+          max-width: 75%;
+        }
+
+        @media (min-width: 992px) {
+          max-width: 60%;
+        }
+
+        @media (min-width: 1200px) {
+          max-width: 50%;
         }
       }
     }
