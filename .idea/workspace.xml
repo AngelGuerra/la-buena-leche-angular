@@ -2,8 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3a6be78-190b-4765-854f-c9dd623770b9" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/less/less.min.js" afterPath="$PROJECT_DIR$/lib/less/2.1.2/less.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.htaccess" afterPath="$PROJECT_DIR$/.htaccess" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/pages/actividades/calendario/index.html" afterPath="$PROJECT_DIR$/templates/pages/actividades/calendario/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/pages/actividades/divulgativas/index.html" afterPath="$PROJECT_DIR$/templates/pages/actividades/divulgativas/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/pages/actividades/ludicas/index.html" afterPath="$PROJECT_DIR$/templates/pages/actividades/ludicas/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/pages/actividades/semana-mundial/index.html" afterPath="$PROJECT_DIR$/templates/pages/actividades/semana-mundial/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/pages/asociate/index.html" afterPath="$PROJECT_DIR$/templates/pages/asociate/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/pages/contacto/index.html" afterPath="$PROJECT_DIR$/templates/pages/contacto/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/pages/encuentros/index.html" afterPath="$PROJECT_DIR$/templates/pages/encuentros/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/pages/index.html" afterPath="$PROJECT_DIR$/templates/pages/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/pages/informacion/beneficios/index.html" afterPath="$PROJECT_DIR$/templates/pages/informacion/beneficios/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/pages/informacion/como-empezar/index.html" afterPath="$PROJECT_DIR$/templates/pages/informacion/como-empezar/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/pages/informacion/destete/index.html" afterPath="$PROJECT_DIR$/templates/pages/informacion/destete/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/pages/informacion/extraccion-de-leche/index.html" afterPath="$PROJECT_DIR$/templates/pages/informacion/extraccion-de-leche/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/pages/informacion/grupos-de-apoyo/index.html" afterPath="$PROJECT_DIR$/templates/pages/informacion/grupos-de-apoyo/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/pages/informacion/lactancia-y-trabajo/index.html" afterPath="$PROJECT_DIR$/templates/pages/informacion/lactancia-y-trabajo/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/pages/informacion/otros-enlaces/index.html" afterPath="$PROJECT_DIR$/templates/pages/informacion/otros-enlaces/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/pages/informacion/problemas-y-soluciones/index.html" afterPath="$PROJECT_DIR$/templates/pages/informacion/problemas-y-soluciones/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/pages/material/extractores-de-leche/index.html" afterPath="$PROJECT_DIR$/templates/pages/material/extractores-de-leche/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/pages/material/material-de-muestra/index.html" afterPath="$PROJECT_DIR$/templates/pages/material/material-de-muestra/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/pages/material/material-divulgativo/index.html" afterPath="$PROJECT_DIR$/templates/pages/material/material-divulgativo/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/pages/material/prestamo-de-libros/_book_details.html" afterPath="$PROJECT_DIR$/templates/pages/material/prestamo-de-libros/_book_details.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/pages/material/prestamo-de-libros/index.html" afterPath="$PROJECT_DIR$/templates/pages/material/prestamo-de-libros/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/pages/quienes-somos/index.html" afterPath="$PROJECT_DIR$/templates/pages/quienes-somos/index.html" />
     </list>
     <ignored path="la-buena-leche.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,13 +46,18 @@
     <favorites_list name="la-buena-leche" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="routes.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/config/routes.js">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name=".htaccess" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.htaccess">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="525">
+              <caret line="35" column="11" selection-start-line="35" selection-start-column="11" selection-end-line="35" selection-end-column="11" />
+              <folding>
+                <marker date="1485194992489" expanded="true" signature="0:243" ph="&lt;ifModule mod_rewrite.c&gt;" />
+                <marker date="1485194992489" expanded="true" signature="273:808" ph="&lt;ifModule mod_deflate.c&gt;" />
+                <marker date="1485194992489" expanded="true" signature="859:1643" ph="&lt;ifModule mod_expires.c&gt;" />
+                <marker date="1485194992489" expanded="true" signature="1696:2096" ph="&lt;ifModule mod_headers.c&gt;" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -38,34 +65,9 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <state relative-caret-position="240">
+              <caret line="16" column="42" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".htaccess" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.htaccess">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="855">
-              <caret line="57" column="9" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="9" />
-              <folding>
-                <marker date="1485015456764" expanded="true" signature="0:243" ph="&lt;ifModule mod_rewrite.c&gt;" />
-                <marker date="1485015456764" expanded="true" signature="273:808" ph="&lt;ifModule mod_deflate.c&gt;" />
-                <marker date="1485015456764" expanded="true" signature="859:1628" ph="&lt;ifModule mod_expires.c&gt;" />
-                <marker date="1485015456764" expanded="true" signature="1681:2081" ph="&lt;ifModule mod_headers.c&gt;" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -83,18 +85,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/templates/pages/informacion/destete/index.html" />
-        <option value="$PROJECT_DIR$/templates/pages/informacion/extraccion-de-leche/index.html" />
-        <option value="$PROJECT_DIR$/templates/pages/informacion/grupos-de-apoyo/index.html" />
-        <option value="$PROJECT_DIR$/templates/pages/informacion/lactancia-y-trabajo/index.html" />
-        <option value="$PROJECT_DIR$/templates/pages/informacion/otros-enlaces/index.html" />
-        <option value="$PROJECT_DIR$/templates/pages/informacion/problemas-y-soluciones/index.html" />
-        <option value="$PROJECT_DIR$/templates/pages/actividades/index.html" />
-        <option value="$PROJECT_DIR$/templates/pages/material/index.html" />
         <option value="$PROJECT_DIR$/lib/angular-bootstrap-calendar/0.14.6/js/angular-bootstrap-calendar.min.js" />
-        <option value="$PROJECT_DIR$/templates/pages/material/extractores-de-leche/index.html" />
-        <option value="$PROJECT_DIR$/templates/pages/material/material-de-muestra/index.html" />
-        <option value="$PROJECT_DIR$/templates/pages/material/material-divulgativo/index.html" />
         <option value="$PROJECT_DIR$/lib/lodash/3.10.1/lodash.min.js" />
         <option value="$PROJECT_DIR$/lib/angular-ui/ui-maps/2.1.5/ui-maps.js" />
         <option value="$PROJECT_DIR$/js/controllers/actividades/encuentros/index.js" />
@@ -108,9 +99,7 @@
         <option value="$PROJECT_DIR$/js/app.js" />
         <option value="$PROJECT_DIR$/js/controllers/quienes-somos/index.js" />
         <option value="$PROJECT_DIR$/js/controllers/material/prestamo-de-libros/index.js" />
-        <option value="$PROJECT_DIR$/templates/pages/material/prestamo-de-libros/index.html" />
         <option value="$PROJECT_DIR$/js/controllers/material/prestamo-de-libros/book-details.js" />
-        <option value="$PROJECT_DIR$/templates/pages/actividades/calendario/index.html" />
         <option value="$PROJECT_DIR$/js/controllers/actividades/calendario/index.js" />
         <option value="$PROJECT_DIR$/sources/json/calendario.json" />
         <option value="$PROJECT_DIR$/js/config/config.js" />
@@ -120,20 +109,33 @@
         <option value="$PROJECT_DIR$/mantenimiento.html" />
         <option value="$PROJECT_DIR$/templates/pages/_footer.html" />
         <option value="$PROJECT_DIR$/templates/pages/_header.html" />
-        <option value="$PROJECT_DIR$/templates/pages/index.html" />
-        <option value="$PROJECT_DIR$/templates/pages/actividades/divulgativas/index.html" />
-        <option value="$PROJECT_DIR$/templates/pages/actividades/ludicas/index.html" />
-        <option value="$PROJECT_DIR$/templates/pages/actividades/semana-mundial/index.html" />
-        <option value="$PROJECT_DIR$/templates/pages/asociate/index.html" />
-        <option value="$PROJECT_DIR$/templates/pages/contacto/index.html" />
-        <option value="$PROJECT_DIR$/templates/pages/encuentros/index.html" />
         <option value="$PROJECT_DIR$/templates/pages/material/_material-de-lactancia.html" />
-        <option value="$PROJECT_DIR$/templates/pages/material/prestamo-de-libros/_book_details.html" />
-        <option value="$PROJECT_DIR$/templates/pages/quienes-somos/index.html" />
-        <option value="$PROJECT_DIR$/.htaccess" />
         <option value="$PROJECT_DIR$/js/controllers/index.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/templates/pages/index.html" />
+        <option value="$PROJECT_DIR$/templates/pages/quienes-somos/index.html" />
+        <option value="$PROJECT_DIR$/templates/pages/material/extractores-de-leche/index.html" />
+        <option value="$PROJECT_DIR$/templates/pages/material/material-de-muestra/index.html" />
+        <option value="$PROJECT_DIR$/templates/pages/material/material-divulgativo/index.html" />
+        <option value="$PROJECT_DIR$/templates/pages/material/prestamo-de-libros/index.html" />
+        <option value="$PROJECT_DIR$/templates/pages/material/prestamo-de-libros/_book_details.html" />
+        <option value="$PROJECT_DIR$/templates/pages/informacion/beneficios/index.html" />
+        <option value="$PROJECT_DIR$/templates/pages/informacion/como-empezar/index.html" />
+        <option value="$PROJECT_DIR$/.htaccess" />
+        <option value="$PROJECT_DIR$/templates/pages/informacion/problemas-y-soluciones/index.html" />
+        <option value="$PROJECT_DIR$/templates/pages/informacion/otros-enlaces/index.html" />
+        <option value="$PROJECT_DIR$/templates/pages/informacion/lactancia-y-trabajo/index.html" />
+        <option value="$PROJECT_DIR$/templates/pages/encuentros/index.html" />
+        <option value="$PROJECT_DIR$/templates/pages/informacion/destete/index.html" />
+        <option value="$PROJECT_DIR$/templates/pages/informacion/extraccion-de-leche/index.html" />
+        <option value="$PROJECT_DIR$/templates/pages/informacion/grupos-de-apoyo/index.html" />
+        <option value="$PROJECT_DIR$/templates/pages/asociate/index.html" />
+        <option value="$PROJECT_DIR$/templates/pages/actividades/calendario/index.html" />
+        <option value="$PROJECT_DIR$/templates/pages/actividades/divulgativas/index.html" />
+        <option value="$PROJECT_DIR$/templates/pages/actividades/ludicas/index.html" />
+        <option value="$PROJECT_DIR$/templates/pages/actividades/semana-mundial/index.html" />
+        <option value="$PROJECT_DIR$/templates/pages/contacto/index.html" />
       </list>
     </option>
   </component>
@@ -179,7 +181,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -208,11 +209,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="moment" />
+              <option name="myItemId" value="templates" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -226,47 +223,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="less" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="la-buena-leche" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="la-buena-leche" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="less" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2.1.2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="la-buena-leche" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="la-buena-leche" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -286,6 +243,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -444,17 +402,18 @@
       <workItem from="1484991127428" duration="13128000" />
       <workItem from="1485004284769" duration="5243000" />
       <workItem from="1485014123529" duration="3136000" />
+      <workItem from="1485194153187" duration="2158000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="101341000" />
+    <option name="totallyTimeSpent" value="103499000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.108347155" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10945274" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Regex Tester" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946146" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -498,84 +457,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/sources/json/libros.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="726" column="31" selection-start-line="726" selection-start-column="31" selection-end-line="726" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sources/json/calendario_2015.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="406" column="5" selection-start-line="362" selection-start-column="4" selection-end-line="406" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/test.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/quienes-somos/original/grupo_01.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/quienes-somos/lg/grupo_02.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/quienes-somos/lg/grupo_03.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/quienes-somos/lg/grupo_01.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/quienes-somos/lg/quienes_somos_1.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/la-buena-leche.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/pages/actividades/calendario/templates/calendar.html" />
-    <entry file="file://$PROJECT_DIR$/lib/angular/1.6.1/angular.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4935">
-          <caret line="329" column="39" selection-start-line="329" selection-start-column="39" selection-end-line="329" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/angular-ui/ui-bootstrap/2.4.0/ui-bootstrap.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/controllers/quienes-somos/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/pages/material/material-de-muestra/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="47" selection-start-line="1" selection-start-column="47" selection-end-line="1" selection-end-column="47" />
         </state>
       </provider>
     </entry>
@@ -614,13 +499,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/pages/material/prestamo-de-libros/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="130" selection-start-line="22" selection-start-column="130" selection-end-line="22" selection-end-column="130" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sources/json/calendario_2016.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -653,13 +531,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/pages/actividades/calendario/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -706,34 +577,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/pages/_header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="49" selection-start-line="3" selection-start-column="49" selection-end-line="3" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/pages/actividades/divulgativas/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/pages/actividades/ludicas/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="66" selection-start-line="1" selection-start-column="66" selection-end-line="1" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/pages/actividades/semana-mundial/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="76" selection-start-line="3" selection-start-column="76" selection-end-line="3" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mantenimiento.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -741,64 +584,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/pages/asociate/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="58" selection-start-line="1" selection-start-column="58" selection-end-line="1" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/pages/contacto/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/pages/encuentros/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="61" selection-start-line="1" selection-start-column="61" selection-end-line="1" selection-end-column="61" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/pages/material/_material-de-lactancia.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
-          <caret line="32" column="82" selection-start-line="32" selection-start-column="82" selection-end-line="32" selection-end-column="82" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/pages/material/prestamo-de-libros/_book_details.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="98" selection-start-line="6" selection-start-column="98" selection-end-line="6" selection-end-column="98" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/pages/quienes-somos/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/controllers/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="50" selection-start-line="18" selection-start-column="50" selection-end-line="18" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/la-buena-leche.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/less/2.1.2/less.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/pages/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
+        <state relative-caret-position="195">
+          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
           <folding />
         </state>
       </provider>
@@ -811,49 +629,223 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/la-buena-leche.css">
+    <entry file="file://$PROJECT_DIR$/templates/pages/quienes-somos/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="12" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/pages/material/_material-de-lactancia.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="82" selection-start-line="32" selection-start-column="82" selection-end-line="32" selection-end-column="82" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/pages/material/extractores-de-leche/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/pages/material/material-de-muestra/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/pages/material/material-divulgativo/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/pages/material/prestamo-de-libros/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/pages/material/prestamo-de-libros/_book_details.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/pages/informacion/beneficios/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="209" column="17" selection-start-line="209" selection-start-column="17" selection-end-line="209" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/pages/informacion/como-empezar/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="54" column="17" selection-start-line="54" selection-start-column="17" selection-end-line="54" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/pages/material/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/pages/informacion/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/pages/informacion/problemas-y-soluciones/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="59" selection-start-line="2" selection-start-column="59" selection-end-line="2" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/pages/informacion/otros-enlaces/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="55" selection-start-line="2" selection-start-column="55" selection-end-line="2" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/pages/informacion/lactancia-y-trabajo/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2445">
+          <caret line="163" column="0" selection-start-line="163" selection-start-column="0" selection-end-line="163" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/pages/informacion/destete/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="77" column="25" selection-start-line="77" selection-start-column="25" selection-end-line="77" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/pages/encuentros/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-555">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/pages/informacion/extraccion-de-leche/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="89" column="59" selection-start-line="89" selection-start-column="59" selection-end-line="89" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/pages/informacion/grupos-de-apoyo/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/pages/asociate/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/pages/actividades/calendario/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/pages/actividades/divulgativas/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/pages/actividades/ludicas/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="59" selection-start-line="6" selection-start-column="59" selection-end-line="6" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/pages/actividades/semana-mundial/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/pages/_header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="49" selection-start-line="3" selection-start-column="49" selection-end-line="3" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/pages/contacto/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.htaccess">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="855">
-          <caret line="57" column="9" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="9" />
+        <state relative-caret-position="525">
+          <caret line="35" column="11" selection-start-line="35" selection-start-column="11" selection-end-line="35" selection-end-column="11" />
           <folding>
-            <marker date="1485015456764" expanded="true" signature="0:243" ph="&lt;ifModule mod_rewrite.c&gt;" />
-            <marker date="1485015456764" expanded="true" signature="273:808" ph="&lt;ifModule mod_deflate.c&gt;" />
-            <marker date="1485015456764" expanded="true" signature="859:1628" ph="&lt;ifModule mod_expires.c&gt;" />
-            <marker date="1485015456764" expanded="true" signature="1681:2081" ph="&lt;ifModule mod_headers.c&gt;" />
+            <marker date="1485194992489" expanded="true" signature="0:243" ph="&lt;ifModule mod_rewrite.c&gt;" />
+            <marker date="1485194992489" expanded="true" signature="273:808" ph="&lt;ifModule mod_deflate.c&gt;" />
+            <marker date="1485194992489" expanded="true" signature="859:1643" ph="&lt;ifModule mod_expires.c&gt;" />
+            <marker date="1485194992489" expanded="true" signature="1696:2096" ph="&lt;ifModule mod_headers.c&gt;" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/less/2.1.2/less.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        <state relative-caret-position="240">
+          <caret line="16" column="42" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
           <folding />
         </state>
       </provider>
