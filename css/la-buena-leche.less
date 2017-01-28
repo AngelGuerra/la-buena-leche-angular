@@ -88,7 +88,7 @@ body {
     margin: 0;
     border-radius: 0;
     border-bottom: solid 5px @page-bg-color;
-    background-color: #333;
+    background-color: @page-font-color;
     opacity: 0.95;
     color: @white;
 
@@ -219,16 +219,62 @@ body {
 
   footer {
     background-color: @footer-bg-color;
-    font-weight: bold;
     padding-bottom: 5px;
-    text-align: center;
+    padding-top: 15px;
 
-    p.copyright {
-      padding-top: 15px;
+    @media (max-width: 480px) {
+      .col-xs-6 {
+        width: 100%;
+      }
     }
 
-    img {
-      height: 50px;
+    .container {
+
+      &.imagen-copy {
+        font-weight: bold;
+        text-align: center;
+
+        img {
+          height: 50px;
+        }
+      }
+
+      &.mapa {
+        ul {
+          li {
+            margin-left: 5px;
+            a {
+              color: @page-font-color;
+              cursor: pointer;
+              font-size: 11px;
+            }
+          }
+        }
+
+        p {
+          font-size: 14px;
+
+          a {
+            color: @page-font-color;
+          }
+        }
+      }
+      &.encuentros {
+        font-size: 11px;
+
+        a {
+          color: @page-font-color;
+        }
+
+        .rrss {
+          margin-bottom: 5px;
+
+          a {
+            margin-left: 5px;
+            text-decoration: none;
+          }
+        }
+      }
     }
   }
 
@@ -313,6 +359,23 @@ body {
           @media (max-width: 480px) {
             width: 100%;
           }
+        }
+      }
+    }
+  }
+
+  #mapa-web {
+    .list-group {
+      li {
+        color: #999;
+        a {
+          color: @page-font-color;
+        }
+      }
+
+      ul {
+        li {
+          margin: 10px 0;
         }
       }
     }

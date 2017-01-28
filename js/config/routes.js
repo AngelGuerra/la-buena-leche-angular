@@ -11,7 +11,7 @@
         $locationProvider.html5Mode(true);
 
         // For any unmatched url, redirect to /
-        $urlRouterProvider.otherwise("/");
+        $urlRouterProvider.otherwise("/mapa-web");
         
         // Now set up the states
         $stateProvider
@@ -64,6 +64,10 @@
                 controller: 'ContactoIndexController',
                 controllerAs: 'contactoCtrl'
             })
+            .state('cookies', {
+                url: '/cookies',
+                templateUrl: 'templates/pages/cookies/index.html'
+            })
             .state('informacion', {
                 abstract: true,
                 url: '/informacion',
@@ -101,6 +105,10 @@
                 url: '/problemas-y-soluciones',
                 templateUrl: 'templates/pages/informacion/problemas-y-soluciones/index.html'
             })
+            .state('mapa-web', {
+                url: '/mapa-web',
+                templateUrl: 'templates/pages/mapa-web/index.html'
+            })
             .state('material', {
                 abstract: true,
                 url: '/material',
@@ -129,10 +137,6 @@
                 templateUrl: 'templates/pages/quienes-somos/index.html',
                 controller: 'QuienesSomosIndexController',
                 controllerAs: 'quienesSomosCtrl'
-            })
-            .state('cookies', {
-                url: '/cookies',
-                templateUrl: 'templates/pages/cookies/index.html'
             }
         );
     
