@@ -10,9 +10,9 @@
     function routes($locationProvider, $stateProvider, $urlRouterProvider){
         $locationProvider.html5Mode(true);
 
-        // For any unmatched url, redirect to /state1
+        // For any unmatched url, redirect to /
         $urlRouterProvider.otherwise("/");
-        //
+        
         // Now set up the states
         $stateProvider
             .state('home', {
@@ -129,7 +129,12 @@
                 templateUrl: 'templates/pages/quienes-somos/index.html',
                 controller: 'QuienesSomosIndexController',
                 controllerAs: 'quienesSomosCtrl'
+            })
+            .state('cookies', {
+                url: '/cookies',
+                templateUrl: 'templates/pages/cookies/index.html'
             }
         );
+    
     }
 })();
