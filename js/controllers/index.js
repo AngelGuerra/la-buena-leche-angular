@@ -12,11 +12,11 @@
         vm.slides = [
             {
                 id: 0,
-                image: 'images/home/lg/home_01.jpg'
+                image: '/public/images/home/lg/home_01.jpg'
             },
             {
                 id: 1,
-                image: 'images/home/lg/home_02.jpg'
+                image: '/public/images/home/lg/home_02.jpg'
             }
         ];
     }

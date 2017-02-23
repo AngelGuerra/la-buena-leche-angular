@@ -12,11 +12,11 @@
         vm.slides = [
             {
                 id: 0,
-                image: 'images/quienes-somos/lg/quienes_somos_1.jpg'
+                image: '/public/images/quienes-somos/lg/quienes_somos_1.jpg'
             },
             {
                 id: 1,
-                image: 'images/quienes-somos/lg/quienes_somos_2.jpg'
+                image: '/public/images/quienes-somos/lg/quienes_somos_2.jpg'
             }
         ];
     }
