@@ -42,9 +42,13 @@
                 url: '/ludicas',
                 templateUrl: 'templates/pages/actividades/ludicas/index.html'
             })
-            .state('actividades.semana-mundial', {
-                url: '/semana-mundial-lactancia-materna',
-                templateUrl: 'templates/pages/actividades/semana-mundial/index.html'
+            .state('actividades.disciplina-positiva', {
+                url: '/charla-taller-introduccion-a-la-disciplina-positiva',
+                templateUrl: 'templates/pages/actividades/disciplina-positiva/index.html'
+            })
+            .state('actividades.semana-mundial-2017', {
+                url: '/semana-mundial-lactancia-materna-2017',
+                templateUrl: 'templates/pages/actividades/semana-mundial/2017/index.html'
             })
             .state('encuentros', {
                 url: '/encuentros',

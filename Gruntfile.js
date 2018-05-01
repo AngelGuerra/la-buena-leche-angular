@@ -35,9 +35,6 @@ module.exports = function (grunt) {
         },
         uglify: {
             app: {
-                options: {
-                    sourceMap: true
-                },
                 src: ['./public/javascripts/min-safe/app.js', './public/javascripts/min-safe/js/*.js'],
                 dest: './public/javascripts/app.min.js'
             }
@@ -54,9 +51,6 @@ module.exports = function (grunt) {
         },
         cssmin: {
             app: {
-                options: {
-                    sourceMap: true
-                },
                 files: [{
                     expand: true,
                     cwd: 'css',
