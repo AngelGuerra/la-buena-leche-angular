@@ -46,9 +46,17 @@
                 url: '/charla-taller-introduccion-a-la-disciplina-positiva',
                 templateUrl: 'templates/pages/actividades/disciplina-positiva/index.html'
             })
+            .state('actividades.semana-mundial-2016', {
+                url: '/semana-mundial-lactancia-materna-2016',
+                templateUrl: 'templates/pages/actividades/semana-mundial/2016/index.html'
+            })
             .state('actividades.semana-mundial-2017', {
                 url: '/semana-mundial-lactancia-materna-2017',
                 templateUrl: 'templates/pages/actividades/semana-mundial/2017/index.html'
+            })
+            .state('actividades.semana-mundial-2018', {
+                url: '/semana-mundial-lactancia-materna-2018',
+                templateUrl: 'templates/pages/actividades/semana-mundial/2018/index.html'
             })
             .state('encuentros', {
                 url: '/encuentros',
